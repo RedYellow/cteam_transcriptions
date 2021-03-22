@@ -1,8 +1,14 @@
 \documentclass[a5paper,11pt]{memoir}    
-\usepackage{dramatist,etoolbox,enumitem}
+\usepackage{dramatist,etoolbox,enumitem, hyperref}
 \usepackage[latin]{babel}
+\usepackage[margin=1in]{geometry}
 
-\usepackage[margin=0.75in]{geometry}
+\usepackage{marginnote}
+
+\makeatletter
+\patchcmd{\@mn@@@marginnote}{\begingroup}{\begingroup\@twosidefalse}{}{\fail}
+\reversemarginpar
+\makeatother
 
 \pagestyle{empty}
 \makeatletter
@@ -24,6 +30,10 @@
 \newenvironment{pc}[1]
 	{ \speaker{#1}\itshape}
 	{}
+
+\newenvironment{pct}[3]
+{ \speaker{#1}\marginnote{\href{#2}{\raggedleft\tiny #3}}\itshape}
+{}
 	
 \newenvironment{player}[1]
 	{ \speaker{#1}}
@@ -32,33 +42,24 @@
 \let\cleardoublepage=\clearpage % removes the blank page after the title page
 
 \setlength{\CharWidth}{.8\textwidth} % defines the width of the characters groups
-% % \setlength{\oddsidemargin}{1in} 
-% \setlength{\evensidemargin}{0in} 
 
 % CHANGE THIS FOR EACH EPISODE
-\title{\textsc{TILE}}
+\title{\textsc{TITLE}}
 \posttitle{\par\vskip1em{\normalfont\normalsize\scshape Season X, Episode Y\par\vfill}\end{center}}
 \author{Acquisitions Incorporated: The C Team}
 \date{DATE}
 
 \Character[Jerry Holkins]{DM}{dm}
 
-\begin{CharacterGroup}{Players}
-	\GCharacter{\textsc{Trystan Falcone}}{Trystan}{trystan} % define characters
-	\GCharacter{\textsc{Kate Welch}}{Kate}{kate}
-	\GCharacter{\textsc{Kris Straub}}{Kris}{kris}
-	\GCharacter{\textsc{Ryan Hartman}}{Ryan}{ryan}
-\end{CharacterGroup}
+\Character[Trystan Falcone]{Trystan}{trystan} % define characters
+\Character[Kate Welch]{Kate}{kate}
+\Character[Kris Straub]{Kris}{kris}
+\Character[Ryan Hartman]{Ryan}{ryan}
 
-% TODO: add some space
-% TODO: why are the speakers names not in smallcaps like they used to be
-
-\begin{CharacterGroup}{Characters}
-	\GCharacter{\parbox{.5\textwidth}{\raggedright{Walnut Dankgrass}}\parbox{.5\textwidth}{\raggedleft{Wood Elf Druid}}}{Walnut}{walnut} % define characters
-	\GCharacter{\parbox{.5\textwidth}{\raggedright{Rosie Beestinger}}\parbox{.5\textwidth}{\raggedleft{Lightfoot Halfling Monk}}}{Rosie}{rosie} % define characters
-	\GCharacter{\parbox{.5\textwidth}{\raggedright{K'thriss Drow'b}}\parbox{.5\textwidth}{\raggedleft{Drow Warlock}}}{K'thriss}{kthriss} % define characters
-	\GCharacter{\parbox{.5\textwidth}{\raggedright{Donaar Blit'zen}}\parbox{.5\textwidth}{\raggedleft{Dragonborn Paladin}}}{Donaar}{donaar} % define characters
-\end{CharacterGroup}
+\Character[Walnut Dankgrass]{Walnut}{walnut} % define characters
+\Character[Rosie Beestinger]{Rosie}{rosie} % define characters
+\Character[K'thriss Drow'b]{k'thriss}{kthriss} % define characters
+\Character[Donaar Blit'zen]{Donaar}{donaar} % define characters
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -95,7 +96,9 @@
 
 \begin{drama}
 
-\walnutspeaks Hello
+\dmspeaks
+
+\walnutspeaks Hello \marginnote{{\href{https://youtu.be/kcMtVE5PDn4?t=43}{\raggedleft\tiny 0:0:43}}}
 
 \rosiespeaks asdfjaldjflajdljljlgss
 
@@ -103,11 +106,18 @@
 	adfasdfasdfdkgljaldjga
 \end{pc}
 
-\speaker{Jim} asdfjalsdjglasjdga
+\begin{pct}{Jim}{https://youtu.be/kcMtVE5PDn4?t=43}{0:0:43}
+	hello everyone, I'm going to kill you. Behold my sorcerous powers, given me by Baphomet 
+	himself, with his red right hand which flayed me ragged and exposed unto me the truth 
+	of all creatures; that we were born as playthings for a god that only cares for suffering. 
+	what are we but animals, given the gift of intelligence and happiness only so that the 
+	pain and loss would be so much sharper, so much sweeter to those beings that you pray 
+	to and beg for mercy 
+\end{pct}
 
-\katespeaks yello
+\katespeaks yello \marginnote{{\href{https://youtu.be/kcMtVE5PDn4?t=43}{\raggedleft\tiny 0:0:43}}}
 
-\kate runs away
+\kate runs away 
 
 \end{drama}
 
