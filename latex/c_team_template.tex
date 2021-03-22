@@ -1,0 +1,96 @@
+\documentclass[a5paper,11pt]{memoir}    
+\usepackage{dramatist,etoolbox,enumitem}
+\usepackage[latin]{babel}
+
+\usepackage[margin=0.75in]{geometry}
+
+\pagestyle{empty}
+\makeatletter
+\renewenvironment{drama}
+  {\if@lnpa
+   \PackageWarning{dramatist}{\lnpwarning{a}}
+   \fi
+   \if@lnps
+   \PackageWarning{dramatist}{\lnpwarning{s}}
+   \fi
+   \begin{itemize}[labelwidth=\speakswidth,leftmargin=!]} 
+  {\end{itemize}}
+  
+\renewcommand{\casttitlename}{Characters}
+\patchcmd{\speaker}{\item[#1\speaksdel]}{\item[\speaksfont#1]}{}{}
+\patchcmd{\@character}{\item[#1\speaksdel]}{\item[\speaksfont#1]}{}{}
+  \makeatother
+
+\newenvironment{pc}[1]
+	{ \speaker{#1}\itshape}
+	{}
+	
+\newenvironment{player}[1]
+	{ \speaker{#1}}
+	{}
+
+\let\cleardoublepage=\clearpage % removes the blank page after the title page
+
+\setlength{\CharWidth}{.8\textwidth} % defines the width of the characters groups
+% % \setlength{\oddsidemargin}{1in} 
+% \setlength{\evensidemargin}{0in} 
+
+% CHANGE THIS FOR EACH EPISODE
+\title{\textsc{Plans Within Plans (abridged)}}
+\posttitle{\par\vskip1em{\normalfont\normalsize\scshape An Interlude\par\vfill}\end{center}}
+\author{Acquisitions Incorporated: The C Team}
+\date{April 5 2018}
+
+\begin{CharacterGroup}{Players}
+	\GCharacter{\textsc{Trystan Falcone}}{Trystan}{trystan} % define characters
+	\GCharacter{\textsc{Kate Welch}}{Kate}{kate}
+	\GCharacter{\textsc{Kris Straub}}{Kris}{kris}
+	\GCharacter{\textsc{Ryan Hartman}}{Ryan}{ryan}
+\end{CharacterGroup}
+
+% TODO: add some space
+% TODO: why are the speakers names not in smallcaps like they used to be
+
+\begin{CharacterGroup}{Characters}
+	\GCharacter{\parbox{.5\textwidth}{\raggedright{Walnut Dankgrass}}\parbox{.5\textwidth}{\raggedleft{Wood Elf Druid}}}{Walnut}{walnut} % define characters
+	\GCharacter{\parbox{.5\textwidth}{\raggedright{Rosie Beestinger}}\parbox{.5\textwidth}{\raggedleft{Lightfoot Halfling Monk}}}{Rosie}{rosie} % define characters
+	\GCharacter{\parbox{.5\textwidth}{\raggedright{K'thriss Drow'b}}\parbox{.5\textwidth}{\raggedleft{Drow Warlock}}}{K'thriss}{kthriss} % define characters
+	\GCharacter{\parbox{.5\textwidth}{\raggedright{Donaar Blit'zen}}\parbox{.5\textwidth}{\raggedleft{Dragonborn Paladin}}}{Donaar}{donaar} % define characters
+\end{CharacterGroup}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+\maketitle
+\thispagestyle{empty}
+
+\settowidth{\speakswidth}{\speaksfont{K'thriss}\speaksdel\hspace{\speechskip}}
+\DramPer
+
+\scene[]
+
+\StageDir{
+    \begin{center} Darkness
+     \end{center}
+}
+
+\begin{drama}
+
+\walnutspeaks Hello
+
+\rosiespeaks asdfjaldjflajdljljlgss
+
+\begin{pc}{Omin}
+	adfasdfasdfdkgljaldjga
+\end{pc}
+
+\speaker{Jim} asdfjalsdjglasjdga
+
+\katespeaks yello
+
+\kate runs away
+
+\end{drama}
+
+\end{document}

@@ -1,0 +1,73 @@
+\documentclass[a5paper,11pt]{memoir}    
+\usepackage{dramatist,etoolbox,enumitem}
+\usepackage[latin]{babel}
+\pagestyle{empty}
+\makeatletter
+\renewenvironment{drama}
+  {\if@lnpa
+   \PackageWarning{dramatist}{\lnpwarning{a}}
+   \fi
+   \if@lnps
+   \PackageWarning{dramatist}{\lnpwarning{s}}
+   \fi
+   \begin{itemize}[labelwidth=\speakswidth,leftmargin=!]} 
+  {\end{itemize}}
+  
+\newcommand\Player{%
+    \@ifnextchar[{\@xplayer}{\@player}}
+\def\@xplayer[#1]#2#3{%
+    \stepcounter{character}
+    \@player{#2}{#3}
+    \n@me@ppend@nddef{persona}{@\Roman{character}}{\castfont #1}
+}
+\def\@player#1#2{%
+    \@namedef{#2}{{\namefont #1}\xspace}
+    \n@me@ppend@nddef{#2}{\@ppendname}{%
+        \if@drverse
+            {\speakstab\speaksfont{#1}\speaksdel\par\nobreak\addvspace{-\parskip}}
+        \else
+            \item[\textit{#1}\speaksdel]
+        \fi}
+}
+
+\renewcommand{\casttitlename}{Characters}
+\patchcmd{\speaker}{\item[#1\speaksdel]}{\item[\speaksfont#1]}{}{}
+\patchcmd{\@character}{\item[#1\speaksdel]}{\item[\speaksfont#1]}{}{}
+\makeatother
+\begin{document}
+
+\Player[Jerocram Horkins]{DM}{dm}
+\Character[Wilheim - a person]{Wilheim}{will} % define characters
+\Character[Frederico - a person]{Frederico}{fred}
+
+\settowidth{\speakswidth}{\speaksfont{Frederico}\speaksdel\hspace{\speechskip}}
+
+\DramPer
+
+\scene[]
+
+\StageDir{
+    \begin{center} Darkness
+     \end{center}
+}
+
+\begin{drama}
+
+\dmspeaks You are in a dungeon
+
+\willspeaks Vivamus varius tellus et mi pretium elementum iaculis tellus semper. Donec semper iaculis ante, 
+convallis convallis arcu laoreet vitae. Aliquam id leo ac eros ultrices rhoncus porta sed ipsum.
+
+\fredspeaks Vivamus varius tellus et mi pretium elementum iaculis tellus semper. Donec semper iaculis ante, 
+convallis convallis arcu laoreet vitae. Aliquam id leo ac eros ultrices rhoncus porta sed ipsum.
+\willspeaks Vivamus varius tellus et mi pretium elementum iaculis tellus semper. Donec semper iaculis ante, 
+convallis convallis arcu laoreet vitae. Aliquam id leo ac eros ultrices rhoncus porta sed ipsum.
+
+\direct{\fred leaves}
+
+\begin{stagedir}{\fred runs away \will runs after \fred}
+\end{stagedir}
+
+\end{drama}
+
+\end{document}

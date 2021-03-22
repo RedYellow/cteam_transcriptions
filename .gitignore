@@ -1,0 +1,8 @@
+**.gz
+.spyproject/*
+./audio/*
+**.pdf
+**.log
+**.fls
+**_latexmk
+**.aux

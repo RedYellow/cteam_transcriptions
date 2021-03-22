@@ -1,0 +1,39 @@
+\documentclass{article}
+\usepackage{calc}
+\usepackage{enumitem}
+\usepackage{etoolbox}
+% define some macros for the play
+\newlist{play}{description}{1}
+\newlength\widthofactor
+\newlength\widthofactors% will become width of widest actor name
+\setlength\widthofactors{10mm}
+\newcommand\DeclareActors[1]{% define actor commands
+   \renewcommand*\do[1]{
+     \csdef{##1}{\item[##1]}
+     \setlength\widthofactor{\widthof{##1\quad}}
+     \ifdim\widthofactors<\widthofactor
+       \setlength\widthofactors\widthofactor
+     \fi
+   }
+   \docsvlist{#1}
+   \setlist[play]{labelwidth=\widthofactors, leftmargin=!}
+}
+\newcommand\Direction[1]{\end{play}\textit{#1}\begin{play}}
+
+%%%%
+
+\DeclareActors{Daniel, Anna, Susan}
+
+\begin{document}
+
+\begin{play}
+\Daniel  Hi there, what are you up to?
+\Anna    I was just gonna go to the store to grab some
+groceries, do you want something?
+\Anna   adsflajsdlfajsld
+\Daniel  A pack of gum would be nice, thanks!
+\Direction{Anna exits stage left, going to the shops}
+\Susan   What's on your mind?
+\end{play}
+
+\end{document}

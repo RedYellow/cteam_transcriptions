@@ -1,0 +1,79 @@
+\documentclass[a5paper,11pt]{memoir}    
+\usepackage{dramatist,etoolbox,enumitem}
+\usepackage[latin]{babel}
+\pagestyle{empty}
+\makeatletter
+\renewenvironment{drama}
+  {\if@lnpa
+   \PackageWarning{dramatist}{\lnpwarning{a}}
+   \fi
+   \if@lnps
+   \PackageWarning{dramatist}{\lnpwarning{s}}
+   \fi
+   \begin{itemize}[labelwidth=\speakswidth,leftmargin=!]} 
+  {\end{itemize}}
+  
+\renewcommand{\casttitlename}{Characters}
+\patchcmd{\speaker}{\item[#1\speaksdel]}{\item[\speaksfont#1]}{}{}
+\patchcmd{\@character}{\item[#1\speaksdel]}{\item[\speaksfont#1]}{}{}
+\makeatother
+
+\newenvironment{pc}[1]
+	{ \speaker{#1}}
+	{}
+	
+\newenvironment{player}[1]
+	{ \speaker{#1}\itshape}
+	{}
+
+\let\cleardoublepage=\clearpage % removes the blank page after the title page
+
+% CHANGE THIS FOR EACH EPISODE
+\title{\textsc{Plans Within Plans (abridged)}}
+\author{Acquisitions Incorporated: The C Team}
+\date{April 5 2018}
+\begin{document}
+\maketitle
+
+\Character[Wilheim - a person]{Wilheim}{will} % define characters
+\Character[Frederico - a person]{Frederico}{fred}
+
+\settowidth{\speakswidth}{\speaksfont{Frederico}\speaksdel\hspace{\speechskip}}
+
+\DramPer
+
+\scene[]
+
+\StageDir{
+    \begin{center} Darkness
+     \end{center}
+}
+
+\begin{drama}
+
+\begin{pc}{K'Thriss}
+
+what's up guys
+\end{pc}
+
+\begin{player}{DM}
+roll for damage
+\end{player}
+
+
+\willspeaks Vivamus varius tellus et mi pretium elementum iaculis tellus semper. Donec semper iaculis ante, 
+convallis convallis arcu laoreet vitae. Aliquam id leo ac eros ultrices rhoncus porta sed ipsum.
+
+\fredspeaks Vivamus varius tellus et mi pretium elementum iaculis tellus semper. Donec semper iaculis ante, 
+convallis convallis arcu laoreet vitae. Aliquam id leo ac eros ultrices rhoncus porta sed ipsum.
+\willspeaks Vivamus varius tellus et mi pretium elementum iaculis tellus semper. Donec semper iaculis ante, 
+convallis convallis arcu laoreet vitae. Aliquam id leo ac eros ultrices rhoncus porta sed ipsum.
+
+\direct{\fred leaves}
+
+\begin{stagedir}{\fred runs away \will runs after \fred}
+\end{stagedir}
+
+\end{drama}
+
+\end{document}
