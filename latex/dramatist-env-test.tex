@@ -16,6 +16,7 @@
 \renewcommand{\casttitlename}{Characters}
 \patchcmd{\speaker}{\item[#1\speaksdel]}{\item[\speaksfont#1]}{}{}
 \patchcmd{\@character}{\item[#1\speaksdel]}{\item[\speaksfont#1]}{}{}
+\let\castfont=\speaksfont
 \makeatother
 
 \newenvironment{pc}[1]
@@ -38,6 +39,13 @@
 \Character[Wilheim - a person]{Wilheim}{will} % define characters
 \Character[Frederico - a person]{Frederico}{fred}
 
+\begin{CharacterGroup}{Players}
+  \GCharacter{Two Clowns, gravediggers}{clowns}{clowns}
+  \GCharacter{A Norwegian Captain}{captain}{capt}
+  \GCharacter{English Ambassadors}{ambassadors}{ambs}
+  \GCharacter{Lords, Ladies, Officers, Soldiers, Sailors, Messengers, Attendants}{others}{other}
+\end{CharacterGroup}
+
 \settowidth{\speakswidth}{\speaksfont{Frederico}\speaksdel\hspace{\speechskip}}
 
 \DramPer
@@ -50,6 +58,15 @@
 }
 
 \begin{drama}
+
+\ambsspeaks ASDFASDFASDFsdfs
+
+\captspeaks ahoy mateys
+
+\begin{pc}{captain}
+
+  what's up guys
+\end{pc}
 
 \begin{pc}{K'Thriss}
 
