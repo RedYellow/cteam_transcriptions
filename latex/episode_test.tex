@@ -1,0 +1,241 @@
+\documentclass[a5paper,11pt]{memoir}    
+\usepackage{dramatist,etoolbox,enumitem, hyperref}
+\usepackage[latin]{babel}
+\usepackage[margin=.8in]{geometry}
+
+\usepackage{marginnote}
+
+\makeatletter
+\patchcmd{\@mn@@@marginnote}{\begingroup}{\begingroup\@twosidefalse}{}{\fail}
+\reversemarginpar
+\makeatother
+
+\pagestyle{empty}
+\makeatletter
+\renewenvironment{drama}
+  {\if@lnpa
+   \PackageWarning{dramatist}{\lnpwarning{a}}
+   \fi
+   \if@lnps
+   \PackageWarning{dramatist}{\lnpwarning{s}}
+   \fi
+   \begin{itemize}[labelwidth=\speakswidth,leftmargin=!]} 
+  {\end{itemize}}
+  
+\renewcommand{\casttitlename}{Characters}
+\patchcmd{\speaker}{\item[#1\speaksdel]}{\item[\speaksfont#1]}{}{}
+\patchcmd{\@character}{\item[#1\speaksdel]}{\item[\speaksfont#1]}{}{}
+  \makeatother
+
+\newenvironment{pc}[1]
+	{ \speaker{#1}\raggedright\itshape}
+	{}
+
+\newenvironment{pct}[3]
+{ \speaker{#1}\marginnote{\href{#2}{\raggedleft\tiny #3}}\itshape}
+{}
+	
+\newenvironment{player}[1]
+	{ \speaker{#1}}
+	{}
+
+\let\cleardoublepage=\clearpage % removes the blank page after the title page
+
+\setlength{\CharWidth}{.8\textwidth} % defines the width of the characters groups
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% CHANGE THIS FOR EACH EPISODE
+\title{\textsc{Plans Within Plans (abridged)}}
+\posttitle{\par\vskip1em{\normalfont\normalsize\scshape An Interlude\par\vfill}\end{center}}
+\author{Acquisitions Incorporated: The C-Team}
+\date{April 5 2018}
+
+\Character[Jerry Holkins]{DM}{dm}
+
+\Character[Trystan Falcone]{Trystan}{trystan} % define characters
+\Character[Kate Welch]{Kate}{kate}
+\Character[Kris Straub]{Kris}{kris}
+\Character[Ryan Hartman]{Ryan}{ryan}
+
+\Character[Walnut Dankgrass]{Walnut}{walnut} % define characters
+\Character[Rosie Beestinger]{Rosie}{rosie} % define characters
+\Character[K'thriss Drow'b]{k'thriss}{kthriss} % define characters
+\Character[Donaar Blit'zen]{Donaar}{donaar} % define characters
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+\maketitle
+\thispagestyle{empty}
+\newpage
+\pagestyle{plain}
+
+\settowidth{\speakswidth}{\speaksfont{K'thriss}\speaksdel\hspace{\speechskip}}
+{\renewcommand{\arraystretch}{1.5}
+\begin{center}
+	\huge{Dramatis Personae}
+\end{center}
+\begin{tabular}{l l l} 
+	Kris Straub & \textsc{K'thriss Drow'b} & Drow Warlock \\
+\end{tabular}
+
+\vspace{.5in}
+
+\begin{stagedir}
+	A door opens to reveal \kthriss sitting at a table in his study.
+\end{stagedir}
+
+\begin{drama}
+
+\begin{pc}{K'Thriss}
+	Oh, hello friend. I'm sorry, you'll have to
+return during business hours.
+
+I was just collecting my own thoughts
+about the C-Team's recent endeavors.
+Since rescuing Omin's sister from the
+Wandering Crypt, we thought things might
+be slowing down here around the Drawn and
+Courtier. 
+
+But then our first job arrived.
+The B-Team's Oak Truestrike – maybe a pen
+name devised as a child – requested
+interdepartmental assistance locating
+Brahma Lutier, their cartographer. 
+
+As a pure courtesy, we traveled with Oak to
+Brahma's last-known whereabouts, the town
+of Westbridge, where we explored the
+neglected Church of Lysander. 
+
+But beneath the church a different kind of service
+was being held. There we glimpsed Brahma,
+corrupted by some force, who assailed
+the party with the ex-living, and then
+vanished. 
+
+Walnut received word from the
+Home Office that the B Team's exclusive
+license had been revoked, and that oak
+true strike was now a wanted man. We
+captured him, dragging him back to Redmarch,
+but he eluded us by using a quirk
+of the Acquisitions Incorporated test
+market system. 
+
+We pursued, ending up in a
+maddening fractal plane which led us
+unexpectedly into the realm of the
+Sanguilith, my patron god in protest, who
+imprisoned my true deity. It was Oak who
+sought to come here, paid by our rival Dran
+Enterprises to do so, but the Sanguilith
+trapped him in crystal along with
+the other gods. 
+
+Some errors were made in
+attempting to free him, and then a couple
+of amenable god-scavengers explained that
+Oak's blood had been changed, turning him
+into kind of a deity bait for purposes
+unknown.
+
+As we made our exit before the Sanguilith
+woke, we found ourselves horribly
+detoured – teleported to the Underdark, a
+place I never wanted to return to. But
+capricious destiny had other plans, as
+our arrival was bafflingly foretold by a
+dwarven king's prophecy in Alcazar.
+Proving our case, we accepted an
+unremarkable mithril pick from them, but
+upon departing, we found the road barred
+by a goblin army and an Underdark druid
+known as Carver Gaul. He turned out to be
+an A-okay mind flayer on a quest that
+mirrored my own. My new best friend's
+task required us to travel into the
+blackest heart of Lolth's domain, Guallidurth, 
+my birthplace and where my
+tyrannical priestess mother would kill
+for a chance to kill me! (for my escape)
+
+But we were ill-equipped for the
+Underdark,
+even with the use of one of Gaul's goblin
+supplicants, Tasty. The Home Office also
+sent help in the form of a powerful
+sorcerer on retainer, by the name of
+Strix. She's okay, but I'm not crazy
+about her methods. 
+
+From outfitter and relic
+enthusiast Moral, we acquired drow 
+disguises for entry into Guallidurth – 
+and they could not have been worse
+disguises – but they did transmute Tasty
+into Taste-full, who got a heaping helping
+of that savory meat! 
+
+Anyway, House Rah'uuthli – 
+my former home – had fallen into such
+disfavor that the city condemned it to
+reclamation by the wilds of the
+Underdark, its ruins now home to a host
+of Driders, one of which had been my
+mother. 
+
+Exploring the house, I discovered
+that my father's heresy closely matched
+my own, and he had cleverly hidden a
+fully appointed study arcanically folded
+inside the blade of a knife, where he
+researched That Which Endures, the god of
+Carver Gaul. As we prepared to deliver
+our findings, Donaar and I were slain by a
+dormant member of Walnut's grove who
+shared a vision of the ancient past with
+Rosie and Walnut, and we learned that
+Walnut's kind and mine were once mortal
+enemies. Pretty small world if you think about
+it.
+
+The priestess, Nilayan, revived and armed
+myself, and upon returning to the Lake of
+radiant mists we were able to free That
+Which Endures, who strangely consumed all the goblins
+from Gaul's army, turning them into gentle
+green beings, and ignored Gaul entirely!
+
+You know, it's a lot to process. 
+
+You're pretty much all caught up now. 
+
+\end{pc}
+
+\StageDir{A \textsc{Skeleton} opens the door to K'Thriss's study.}
+
+\begin{pc}{Skeleton} I'm sorry,
+	I made a mistake, I thought this was the
+	toilet. This is the wrong door.
+\end{pc}
+
+\begin{pc}{K'Thriss}
+	Oh, across the hall friend! Enjoy urinating!
+\end{pc}
+
+\begin{pc}{Skeleton}
+	Perhaps, but if you put a sign on the
+	door people would not keep making this
+	mistake.
+\end{pc}
+
+\begin{pc}{K'Thriss}
+	Oh, I don't mind!
+\end{pc}
+
+\end{drama}
+
+\end{document}

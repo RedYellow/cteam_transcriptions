@@ -13,9 +13,10 @@ def ts_to_secs(ts):
     hours, mins, secs, ms = ts
     return 3600*hours+mins*60+secs
 
-ex_sub = "Acq Inc_ The “C” Team_ Plans Within Plans (abridged) (1080p_30fps_H264-128kbit_AAC).English.srt"
+ex_sub = "Dran Incorporated, Part 1 - S1 E31 - Acquisitions Inc_ The _C_ Team (1080p_30fps_H264-128kbit_AAC).English.srt"
 
 subs = pysrt.open("./subtitles/{}".format(ex_sub))
+subs = subs.slice(starts_after={'seconds': 39})
 
 text = []
 
