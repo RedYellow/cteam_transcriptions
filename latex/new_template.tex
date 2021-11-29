@@ -1,0 +1,66 @@
+\documentclass{article}
+\usepackage{dramatist}
+\def\characterfont{\normalfont} % initial setting
+\makeatletter % copied from the dramatist.sty source code
+\def\@character#1#2{%
+    \@namedef{#2}{{\namefont #1}\xspace}
+    \n@me@ppend@nddef{#2}{\@ppendname}{%
+        \normalfont
+        \if@drverse
+            {\speakstab\speaksfont{#1}\speaksdel\par\nobreak\addvspace{-\parskip}}
+        \else
+            \item[#1\speaksdel]
+        \fi\characterfont}% added extra command here
+}
+\makeatother
+
+% use the font setting one time and switch to normalfont on next call
+% needed to reset the value for characters that don't set the font explicitly
+\def\perfont#1{%
+\gdef\characterfont{#1\gdef\characterfont{\normalfont}}%
+}
+
+
+
+\begin{document}
+
+% add font settings to character names
+\Character[Hercule Poirot]{POIROT}{poi}
+
+\Character{Alice\perfont{\itshape}}{ali}
+\Character{Bob}{bob}
+\Character{Charlie\perfont{\scshape}}{cha}
+\Character{Donaardd\perfont{\scshape}}{donaar}
+\Character[Walnut Dankgrass\perfont{\itshape}]{Walnut}{walnut} % define characters
+\Character[Rosie Beestinger]{Rosie}{rosie} % define characters
+\Character[K'thriss Drow'b]{K'thriss}{kthriss} % define characters
+
+\Character[Ivan Anderson]{ANDERSON}{and}
+\Character[Mr. Jesmond]{JESMOND}{jes}
+
+\DramPer
+
+\scene[-- Kent]
+
+\StageDir{
+    \begin{center} Sitting Room in Mr. Jesmond's House\\\poi, \jes
+    \end{center}
+}
+
+\begin{drama}
+
+\poispeaks
+And so, we meet again, Mr. Jesmond. It is rather tiring.
+\jesspeaks
+\direct{laughingly} It rather is, isn't it? Now, for the case --
+\alispeaks
+Hi Bob!
+\bobspeaks
+Hi Alice! Have you seen Bob?
+\chaspeaks
+I'm not here.
+\donaarspeaks asdfaklsdjf
+
+\walnutspeaks jhgjhgj
+\end{drama}
+\end{document}

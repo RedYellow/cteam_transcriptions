@@ -5,38 +5,32 @@
 
 \usepackage{marginnote}
 
+
 \makeatletter
 \patchcmd{\@mn@@@marginnote}{\begingroup}{\begingroup\@twosidefalse}{}{\fail}
 \reversemarginpar
 \makeatother
 
-\makeatletter
-\renewenvironment{drama}
-  {\if@lnpa
-   \PackageWarning{dramatist}{\lnpwarning{a}}
-   \fi
-   \if@lnps
-   \PackageWarning{dramatist}{\lnpwarning{s}}
-   \fi
-   \begin{itemize}[labelwidth=\speakswidth,leftmargin=!]} 
-  {\end{itemize}}
-  
-\renewcommand{\casttitlename}{Characters}
-\patchcmd{\speaker}{\item[#1\speaksdel]}{\item[\speaksfont#1]}{}{}
-\patchcmd{\@character}{\item[#1\speaksdel]}{\item[\speaksfont#1]}{}{}
-  \makeatother
+\def\characterfont{\normalfont} % initial setting
+\makeatletter % copied from the dramatist.sty source code
+\def\@character#1#2{%
+	\@namedef{#2}{{\namefont #1}\xspace}
+	\n@me@ppend@nddef{#2}{\@ppendname}{%
+		\normalfont
+		\if@drverse
+			{\speakstab\speaksfont{#1}\speaksdel\par\nobreak\addvspace{-\parskip}}
+		\else
+			\item[#1\speaksdel]
+		\fi\characterfont}% added extra command here
+}
+\makeatother
 
-\newenvironment{pc}[1]
-	{ \speaker{#1}\itshape}
-	{}
+% use the font setting one time and switch to normalfont on next call
+% needed to reset the value for characters that don't set the font explicitly
+\def\perfont#1{%
+\gdef\characterfont{#1\gdef\characterfont{\normalfont}}%
+}
 
-\newenvironment{pct}[3]
-{ \speaker{#1}\marginnote{\href{#2}{\raggedleft\tiny #3}}\itshape}
-{}
-	
-\newenvironment{player}[1]
-	{ \speaker{#1}}
-	{}
 
 \let\cleardoublepage=\clearpage % removes the blank page after the title page
 
@@ -48,6 +42,20 @@
 \author{Acquisitions Incorporated: The C-Team}
 \date{DATE}
 
+
+\makeatletter
+\renewenvironment{drama}
+ {\if@lnpa
+  \PackageWarning{dramatist}{\lnpwarning{a}}
+   \fi
+   \if@lnps
+   \PackageWarning{dramatist}{\lnpwarning{s}}
+   \fi
+  \begin{itemize}[labelwidth=\speakswidth,leftmargin=!]} 
+ {\end{itemize}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
 \Character[Jerry Holkins]{DM}{dm}
 
 \Character[Trystan Falcone]{Trystan}{trystan} % define characters
@@ -55,20 +63,15 @@
 \Character[Kris Straub]{Kris}{kris}
 \Character[Ryan Hartman]{Ryan}{ryan}
 
-\Character[Walnut Dankgrass]{Walnut}{walnut} % define characters
-\Character[Rosie Beestinger]{Rosie}{rosie} % define characters
-\Character[K'thriss Drow'b]{k'thriss}{kthriss} % define characters
-\Character[Donaar Blit'zen]{Donaar}{donaar} % define characters
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\begin{document}
+\Character[Walnut Dankgrass]{Walnut\perfont{\itshape}}{walnut} % define characters
+\Character[Rosie Beestinger]{Rosie\perfont{\itshape}}{rosie} % define characters
+\Character[K'thriss Drow'b]{K'thriss\perfont{\itshape}}{kthriss} % define characters
+\Character[Donaar Blit'zen]{Donaar\perfont{\itshape}}{donaar} % define characters
 
 \maketitle
 \thispagestyle{empty}
 \newpage
 
-\settowidth{\speakswidth}{\speaksfont{K'thriss}\speaksdel\hspace{\speechskip}}
 {\renewcommand{\arraystretch}{1.5}
 \begin{center}
 	\huge{Dramatis Personae}
@@ -76,13 +79,13 @@
 	\normalsize\textsc{DM: Jerry Holkins}
 \end{center}
 \begin{tabular}{l l l} 
-	Ryan Hartman & \textsc{Donaar Blit'zen} & Dragonborn Paladin \\ 
+	Ryan Hartman & \textsc{Donaar Blit'zen} & \small{Dragonborn Paladin} \\ 
 	\hline
-	Trystan Falcone & \textsc{Walnut Dankgrass} &  Wood Elf Druid \\ 
+	Trystan Falcone & \textsc{Walnut Dankgrass} &  \small{Wood Elf Druid} \\ 
 	\hline
-	Kate Welch & \textsc{Rosie Beestinger} & Lightfoot Halfling Monk \\ 
+	Kate Welch & \textsc{Rosie Beestinger} & \small{Lightfoot Halfling Monk} \\ 
 	\hline
-	Kris Straub & \textsc{K'thriss Drow'b} & Drow Warlock \\ 
+	Kris Straub & \textsc{K'thriss Drow'b} & \small{Drow Warlock} \\ 
 \end{tabular}
 
 \vspace{.5in}
@@ -95,6 +98,7 @@
 \begin{drama}
 
 \dmspeaks Hello everyone
+\walnutspeaks adflkajsdflkaj
 
 \end{drama}
 
