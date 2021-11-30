@@ -1,9 +1,10 @@
 import glob
 import re
 from pathlib import Path
+import yaml
 
 BASE_PATH = "./subtitles"
-paths = glob.glob(BASE_PATH + "/*.srt")
+paths = [Path(i) for i in glob.glob(BASE_PATH + "/*.srt")]
 
 for path in paths:
     with open(path) as f:
@@ -17,7 +18,7 @@ for path in paths:
         l.split("\n")[0]: l.split("\n")[1] for l in text.split("\n\n") if len(l) > 1
     }
 
-    # tstamp_lines =
     breakpoint()
-    with open(Path("./yaml_files") / Path(path).stem() + ".txt", "w") as f:
-        f.write(text)
+    to_path = Path("./yaml_files") / (path.stem + ".yaml")
+    with open(to_path, "w") as f:
+        yaml.dump(tstamp_lines, f)
