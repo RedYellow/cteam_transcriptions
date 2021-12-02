@@ -1,0 +1,72 @@
+walnut:
+  fullname: Walnut Dankgrass
+  race: Wood Elf
+  class: Druid
+  description: Reppin the natural world
+
+kthriss:
+  fullname: K'thriss Drow'b
+  race: Drow
+  class: Warlock
+  description: Emerging as if from a mist shroud
+
+rosie:
+  fullname: Rosie Beestinger
+  race: Halfling
+  class: Monk
+  description: Not your grandma's grandma!
+
+donaar:
+  fullname: Donaar Blit'zen
+  race: Dragonborn
+  class: Paladin
+  description: Dragonborn narcissist
+  playername:
+
+dm:
+  fullname: DM
+  playername: Jerry Holkins
+
+# Guest PCs
+driebus:
+  fullname: Driebus Beestinger
+  race: Half Orc
+  class: Multi-Class
+  description: The failson of Rosie Beestinger
+  playername: Patrick Rothfuss
+
+cher:
+  fullname: Cher Beestinger
+  race:  
+  class:
+  description:
+  playername: Molly Lewis
+
+kiupid:
+  fullname: Kiupid Donaar Blit'zen 
+  race:  
+  class:
+  description:
+  playername: Nika Harper 
+
+kiwi:
+  fullname: Kiwi Beestinger
+  race:  
+  class:
+  description:
+  playername: Mikey Lewis
+ 
+    
+
+# People
+dmchris:
+  fullname: Chris Perkins  
+  
+# DMPCs 
+# Team Naiad
+fenn:
+  fullname: Fenn
+  race:
+  class: Obviator Fighter
+  description:
+  playername: dmpc
