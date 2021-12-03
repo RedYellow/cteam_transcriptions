@@ -3,28 +3,31 @@ walnut:
   race: Wood Elf
   class: Druid
   description: Reppin the natural world
+  playername: Trystan Falcone
 
 kthriss:
   fullname: K'thriss Drow'b
   race: Drow
   class: Warlock
   description: Emerging as if from a mist shroud
+  playername: Kris Straub
 
 rosie:
   fullname: Rosie Beestinger
-  race: Halfling
-  class: Monk
+  race: Lightfoot Halfling
+  class: Monk (Way of Shadow)
   description: Not your grandma's grandma!
+  playername: Kate Welch
 
 donaar:
   fullname: Donaar Blit'zen
   race: Dragonborn
   class: Paladin
   description: Dragonborn narcissist
-  playername:
+  playername: Ryan Hartman
 
 dm:
-  fullname: DM
+  fullname: Dungeon Master
   playername: Jerry Holkins
 
 # Guest PCs
