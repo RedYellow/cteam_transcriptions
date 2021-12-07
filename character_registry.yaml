@@ -62,9 +62,16 @@ kiwi:
     
 
 # People
-dmchris:
-  fullname: Chris Perkins  
-  
+kate:
+  fullname: Kate Welch
+ryan:
+  fullname: Ryan Hartman
+kris:
+  fullname: Kris Straub
+trystan:
+  fullname: Trystan Falcone
+pat:
+  fullname: Patrick Rothfuss
 # DMPCs 
 # Team Naiad
 fenn:
@@ -73,3 +80,7 @@ fenn:
   class: Obviator Fighter
   description:
   playername: dmpc
+
+# Team Bellerophon
+oak:
+  fullname: Oak Truestrike

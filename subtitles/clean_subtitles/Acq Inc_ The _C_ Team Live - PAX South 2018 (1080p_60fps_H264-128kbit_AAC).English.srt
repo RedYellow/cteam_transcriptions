@@ -107,7 +107,9 @@ just get a seat open for me there in the
 front for me to continue running the
 
 00:03:36,060 --> 00:03:44,659
-game as per usual. Gathered friends, are
+game as per usual. 
+
+Gathered friends, are
 
 00:03:39,750 --> 00:03:44,659
 we ready to begin season two of the C-Team?
@@ -133,6 +135,7 @@ won't even know!
 just gonna grease my path to the front row. 
 
 00:04:09,050 --> 00:04:16,790
+
 Indeed now, friends, heed my words.
 
 00:04:12,830 --> 00:04:20,509
@@ -145,7 +148,7 @@ a brief period in a place, a grove in
 Triboar, where the veil between the worlds
 
 00:04:24,410 --> 00:04:32,090
-is very very thin indeed. It is a place
+is very, very thin indeed. It is a place
 
 00:04:27,879 --> 00:04:35,839
 where Gwaeron the Hunter and Mielikki
@@ -163,7 +166,9 @@ K'thriss could not physically gain
 entrance, such were the powers that held
 
 00:04:45,589 --> 00:04:54,619
-sway there. And there was a moment of
+sway there. 
+
+And there was a moment of
 
 00:04:48,829 --> 00:04:57,199
 intimacy of a sort, between Walnut and
@@ -178,7 +183,9 @@ kind of natural couch, and then you were
 heaped upon one another, and there was a
 
 00:05:03,319 --> 00:05:14,329
-cradling motion. Now imagine that our
+cradling motion. 
+
+Now imagine that our
 
 00:05:08,569 --> 00:05:16,459
 scene opens there, and let me give you
@@ -200,11 +207,11 @@ briefly, let me give you the container
 object that we will use -- imagine if you
 
 00:05:24,259 --> 00:05:33,170
-will --
+will--
 
 \kate I will.
 
-\dm -- the wedding of
+\dm --the wedding of
 
 00:05:28,779 --> 00:05:35,799
 Brahma Lutier and Walnut Dankgrass. 
@@ -218,7 +225,9 @@ Brahma Lutier and Walnut Dankgrass.
 \dm Your visions
 
 00:05:39,230 --> 00:05:47,900
-getting blurry? So in the very
+getting blurry? 
+
+So in the very
 
 00:05:43,730 --> 00:05:53,780
 center of this grove, you can see almost
@@ -302,7 +311,7 @@ cake in his way -- but he occasionally
 succeeds at bringing you empty glasses --
 
 00:07:28,339 --> 00:07:36,129
-that were full of wine when he
+that _were_ full of wine when he
 
 00:07:32,029 --> 00:07:40,299
 originally secured them -- and wet,
@@ -410,7 +419,9 @@ she approaches you and asks you if you
 know where -- and then she pauses in the
 
 00:09:23,610 --> 00:09:36,240
-middle -- she says, your _novel, effective son_
+middle -- she says, 
+
+\fenn your _novel, effective son_
 
 00:09:29,779 --> 00:09:38,459
 is.
@@ -432,7 +443,7 @@ about being diplomatic.
 \rosie Well, that's very generous of you. You're
 
 00:09:47,720 --> 00:09:55,700
-not talking about __Driebus__, are you?
+not talking about _Driebus_, are you?
 \StageDir She whispers as she says his name.
 \fenn I need to know where
 
@@ -465,7 +476,7 @@ and I don't know where the rings are.
 worry, I've got this. Don't worry about it.
 
 00:10:08,210 --> 00:10:22,389
-**__Driebus Beestinger!__**
+**_Driebus Beestinger!_**
 \StageDir She speaks commandingly.
 \dm I don't see him.
 \StageDir \driebus enters stage right, wearing a leather jacket over a My Chemical Romance shirt, with his bangs hanging over his eyes.
@@ -473,7 +484,7 @@ worry, I've got this. Don't worry about it.
 00:10:42,899 --> 00:10:54,250
 \rosie Well, it's about time. 
 
-\driebus Hey mom
+\driebus Hey mom.
 
 \rosie Do you have
 
@@ -502,10 +513,9 @@ me or something, mom.
 these rings, mom. It's okay, everything's
 
 00:11:18,610 --> 00:11:22,480
-fine
+fine.
 
-\StageDir \rosie turns back to \fenn
-\rosie Everything's fine!
+\rosie \direct{turning back to Fenn} Everything's fine!
 
 00:11:20,620 --> 00:11:24,970
 \fenn Driebus Beestinger, I want you to show
@@ -881,10 +891,12 @@ that! Don't look at that.
 00:17:54,169 --> 00:18:05,929
 \kthriss Hold your hands up.
 
-\driebus Hold my hands up? but that big okay
+\driebus Hold my hands up? \direct{he holds his hands above his head}
+
+\kthriss That big? Okay...
 
 00:17:57,230 --> 00:18:08,118
-no no it's like the finger rings ring
+\driebus No no, it's like the finger rings ring
 
 00:18:05,929 --> 00:18:10,759
 ruff or off or a finger finger right
@@ -896,10 +908,10 @@ yeah you do two rings yeah four
 different fingers of different people
 
 00:18:12,919 --> 00:18:18,799
-that's numerable possibilities and I'll
+that's innumerable possibilities and I'll
 
 00:18:16,849 --> 00:18:22,608
-do what I can I can just start making
+do what I can. I can just start making
 
 00:18:18,798 --> 00:18:25,278
 loops of grasses no mark no no there
@@ -908,38 +920,39 @@ loops of grasses no mark no no there
 okay okay now don't think that suited
 
 00:18:25,278 --> 00:18:34,220
-why okay uh thank you I really
+why okay uh thank you. I really
 
 00:18:30,798 --> 00:18:37,460
 appreciate you consulting me on this
 
 00:18:34,220 --> 00:18:39,259
-matter of grave cosmic importance. this
+matter of grave cosmic importance. This
 
 00:18:37,460 --> 00:18:41,358
-whole time by the way rosie is watching
+whole time by the way, Rosie is watching
 
 00:18:39,259 --> 00:18:50,450
-Driebus just like, stand staring blankly
+Driebus just like, standing, staring blankly
 
 00:18:41,358 --> 00:18:55,220
 hearing actress my turn yeah mom Jesus
 
 00:18:50,450 --> 00:18:59,019
-make some noise sometimes can I get a
+make some noise sometimes 
+\dm Can I get a
 
 00:18:55,220 --> 00:18:59,019
 real quick perception roll?
 
 00:19:03,359 --> 00:19:11,469
 13 
-\dm you're obliterated snow no you're not.
+\dm You're obliterated. snow no you're not.
 
 00:19:08,319 --> 00:19:14,109
 You're not obliterated, but you don't
 
 00:19:11,470 --> 00:19:15,700
-think if you don't remember or consider
+think if you don't remember, or consider
 
 00:19:14,109 --> 00:19:19,629
 even for a moment anything of
@@ -960,7 +973,7 @@ shit yeah no here no kit here here here
 now let me let me add a piece of
 
 00:19:33,309 --> 00:19:37,990
-information a piece of information that
+information, a piece of information that
 
 00:19:36,069 --> 00:19:45,309
 might be useful for you and the Shadow
@@ -1008,10 +1021,10 @@ Drow'b can see with something
 like an eye but on something I don't
 
 00:20:30,339 --> 00:20:33,399
-have to use ligarius something I
+_have_ to use ligarius something
 
 00:20:31,720 --> 00:20:36,220
-adjacent you can if you want to and
+eye-adjacent you can if you want to and
 
 00:20:33,400 --> 00:20:38,080
 occasionally it's fun yeah Wow so like
@@ -1020,10 +1033,10 @@ occasionally it's fun yeah Wow so like
 you've got like these magic gem eyes
 
 00:20:38,079 --> 00:20:55,449
-going on and I was thinking can you
+going on and I was thinking, can you...
 
 00:20:40,950 --> 00:20:57,819
-fashion one of them into a ring yes okay
+\kthriss Fashion one of them into a ring? yes okay
 
 00:20:55,450 --> 00:21:00,759
 like I went to the buffet real briefly
@@ -1035,7 +1048,7 @@ like just one I just I just walked by
 the buffet I talked to this like half
 
 00:21:04,750 --> 00:21:10,420
-health girl and then I hung out with
+elf girl and then I hung out with
 
 00:21:07,750 --> 00:21:14,049
 right hand a little bit like I've been
@@ -1047,7 +1060,7 @@ all over this place right but do those
 magic eyes you like see true
 
 00:21:16,740 --> 00:21:22,740
-you can like it cuz you I'm assuming you
+you can like. it Cuz you I'm assuming you
 
 00:21:19,829 --> 00:21:24,990
 have like massive oracular like all
@@ -1056,16 +1069,20 @@ have like massive oracular like all
 vision you can't just ask people if they
 
 00:21:24,990 --> 00:21:30,390
-can see through things my field of
+can see through things 
+
+\kthriss My field of
 
 00:21:27,390 --> 00:21:34,770
 vision is slightly greater than that of
 
 00:21:30,390 --> 00:21:39,509
-mere mortals where your field of views
+mere mortals. Where your field of views
 
 00:21:34,769 --> 00:21:41,099
-like this mines like I mean what
+like _this_, \direct{he holds out his arms to indicate how wide his peripheral vision is} mine's like \direct{he widens the angle of his arms very slightly}
+
+I mean what
 
 00:21:39,509 --> 00:21:44,009
 peripheral vision mean wha it's
@@ -1080,13 +1097,17 @@ Deus have you seen some rings around no
 oh okay yeah now you think about where
 
 00:21:51,299 --> 00:21:55,440
-these rings might be think about the
+these rings might be. Think about the
 
 00:21:53,430 --> 00:22:00,060
-life you've lived think about the person
+life you've lived. Think about the person
 
 00:21:55,440 --> 00:22:02,730
-you are Walnut Dankgrass. it's me Fenn
+you are.
+
+\dm Walnut Dankgrass.
+\trystan It's me!
+\dm Fenn
 
 00:22:00,059 --> 00:22:06,000
 approaches you. She has been trying to
@@ -1095,46 +1116,48 @@ approaches you. She has been trying to
 give you as much time as you need in
 
 00:22:06,000 --> 00:22:13,140
-comfort you have a small place away from
+comfort. You have a small place away from
 
 00:22:09,720 --> 00:22:17,120
-the festivities themselves you're free
+the festivities themselves. You're free
 
 00:22:13,140 --> 00:22:21,270
-to mingle of course, but the Grove has
+to mingle of course, but the grove has
 
 00:22:17,119 --> 00:22:24,089
-allowed you a private special place
+allowed you a private, special place.
 
 00:22:21,269 --> 00:22:26,420
-indeed you have a place that is distinct
+Indeed, you have a place that is distinct
 
 00:22:24,089 --> 00:22:30,149
-from Brahmas place right it has
+from Brahma's place. It has
 
 00:22:26,420 --> 00:22:34,680
 constructed and made space for each of
 
 00:22:30,150 --> 00:22:41,160
-you before the handfasting now when she
+you before the handfasting. Now, when she
 
 00:22:34,680 --> 00:22:43,950
-approaches she hands you these flowers
+approaches, she hands you these flowers,
 
 00:22:41,160 --> 00:22:48,740
-and you can tell immediately here can I
+and you can tell immediately... Here, can I
 
 00:22:43,950 --> 00:22:48,740
-get a perception role uh surely you can
+get a perception roll? 
+
+\trystan Uh surely you can...
 
 00:22:50,180 --> 00:22:58,580
-16 plus I don't know where is it
+16 plus I don't know, where is it
 
 00:22:53,369 --> 00:23:05,579
 6 she's all flustered plus 7 so over 23
 
 00:22:58,579 --> 00:23:09,149
-so her eyes the center core of them yes
+so her eyes, the center core of them, yes
 
 00:23:05,579 --> 00:23:12,659
 are perfectly black and infinitely deep
@@ -1182,13 +1205,13 @@ this is something you're gonna have to
 consider and I just wanted to give you a
 
 00:23:59,788 --> 00:24:09,419
-heads up I have a lot of questions
+heads up. I have a lot of questions
 
 00:24:05,329 --> 00:24:10,980
-please okay why have I never heard of
+please okay Why have I never heard of
 
 00:24:09,419 --> 00:24:15,720
-these before they're completely
+these before? They're completely
 
 00:24:10,980 --> 00:24:18,450
 invisible ok inaudible no sense that we
@@ -1200,13 +1223,13 @@ know of and what it could be here right
 now but they could be waiting at the
 
 00:24:19,740 --> 00:24:27,450
-periphery for the ritual to commence and
+periphery for the ritual to commence, and
 
 00:24:23,999 --> 00:24:33,839
-then just as we have feasted they will
+then just as we have feasted, they will
 
 00:24:27,450 --> 00:24:36,350
-feast as well something to consider I
+feast as well. Something to consider. I
 
 00:24:33,839 --> 00:24:42,689
 could hold them off for a minute or two
@@ -1224,7 +1247,7 @@ of course
 oh and one that gets really serious she
 
 00:24:47,609 --> 00:24:54,148
-goes you are director of security oh
+goes you are Director of Security. oh
 
 00:24:51,648 --> 00:24:57,538
 absolutely absolutely
@@ -1233,13 +1256,13 @@ absolutely absolutely
 yes oh absolutely but I mean there are
 
 00:24:57,538 --> 00:25:07,220
-limitations silent inaudible invisible
+limitations. Silent, inaudible, invisible
 
 00:25:02,788 --> 00:25:07,220
-assassins who could blame me
+assassins? Who could blame me?
 
 00:25:07,429 --> 00:25:11,509
-so what can I do a roll to see if I've
+So what, can I do a roll to see if I've
 
 00:25:09,558 --> 00:25:13,519
 ever heard of such a thing or fine no
@@ -1281,10 +1304,10 @@ Walnut don't drama doc you buddies now
 obviously this you are about to enter
 
 00:25:57,558 --> 00:26:05,329
-into one of the most sacred most
+into one of the most sacred, most
 
 00:26:00,588 --> 00:26:08,538
-romantic contracts you can possibly sign
+romantic contracts you can possibly sign,
 
 00:26:05,329 --> 00:26:15,918
 and I just wanted to check in with you
@@ -1374,7 +1397,7 @@ hair of and our dragon huh is right
 there and he is he is directing he is
 
 00:27:55,019 --> 00:28:00,990
-directing the men the incredibly hot men
+directing the men -- the incredibly hot men --
 
 00:27:58,440 --> 00:28:03,690
 he has brought with him it's like these
@@ -1461,19 +1484,21 @@ have an idea shoot our unit or unicorn
 whip them okay I would like to choose
 
 00:29:44,589 --> 00:29:50,918
-plant growth so that very tasteful vines
+Plant Growth, so that very tasteful vines
 
 00:29:48,450 --> 00:29:54,278
-flowers come up and cover them in just
+flowers come up and cover them, in just
 
 00:29:50,919 --> 00:29:57,429
 like the most dignified way without
 
 00:29:54,278 --> 00:30:00,920
-disrupting the statuary absolutely and
+disrupting the statuary. absolutely and
 
 00:29:57,429 --> 00:30:06,650
-then she goes the Grove blessed us
+then she goes:
+
+\person The grove blessed us!
 
 00:30:00,920 --> 00:30:06,650
 [Laughter]
@@ -1494,10 +1519,10 @@ the edge it's like blessings to you on
 this day there are rings that need to be
 
 00:30:31,680 --> 00:30:34,539
-found during this what's going on with
+found during this. What's going on with
 
 00:30:33,240 --> 00:30:36,380
-these rings
+these rings?
 
 00:30:34,539 --> 00:30:38,700
 [Music]
@@ -1506,7 +1531,7 @@ these rings
 the situation where you like look across
 
 00:30:38,700 --> 00:30:43,289
-the group of people and you see Fenn and
+the group of people, and you see Fenn and
 
 00:30:41,460 --> 00:30:46,730
 then she's always like locking eyes with
@@ -1515,7 +1540,7 @@ then she's always like locking eyes with
 you and starting to move towards you
 
 00:30:47,130 --> 00:31:01,200
-can I get a perception role maybe 12 no
+can I get a perception roll? maybe 12 no
 
 00:30:58,230 --> 00:31:04,049
 you think you think very briefly about a
@@ -1551,7 +1576,7 @@ aren't allowed to talk anymore that
 dragon man I bet you he could play some
 
 00:31:33,450 --> 00:31:39,809
-bitchin bass I never have seen one but I
+bitchin bass. I never have seen one but I
 
 00:31:36,960 --> 00:31:41,309
 could don't know what it is I don't even
@@ -1563,13 +1588,13 @@ know what it is already an expert but
 I'm the best okay I think pretty sure
 
 00:31:43,049 --> 00:31:46,230
-I've been to the buffet like four times
+I've been to the buffet, like, four times,
 
 00:31:44,730 --> 00:31:47,549
 so if the rings are gonna be anywhere
 
 00:31:46,230 --> 00:31:50,910
-they're at the buffet weight could be
+they're at the buffet. weight could be
 
 00:31:47,549 --> 00:31:53,849
 deep in the pie right at the box oh yeah
@@ -1578,10 +1603,10 @@ deep in the pie right at the box oh yeah
 I'll kind of circle the buffet like a
 
 00:31:53,849 --> 00:31:58,409
-like a shark okay give me a give me a
+like a shark. okay give me a give me a
 
 00:31:56,519 --> 00:32:00,750
-perception role but yours you're
+perception roll. but yours you're
 
 00:31:58,410 --> 00:32:08,910
 slightly scooting these trays of baked
@@ -1593,7 +1618,7 @@ products around that's it 30:13 that's
 so low pretty much no it's it's
 
 00:32:11,609 --> 00:32:18,119
-insufficient okay um as insufficient and
+insufficient. okay um as insufficient and
 
 00:32:15,140 --> 00:32:19,610
 somebody but you're you've adjusted like
@@ -1605,7 +1630,7 @@ you have like
 deeply wounded that the Chi that
 
 00:32:23,929 --> 00:32:28,820
-surrounds this like meticulously
+surrounds this like, _meticulously_
 
 00:32:26,269 --> 00:32:31,089
 arranged table right your umbrella is
@@ -1629,7 +1654,7 @@ suspicious of this whole thing I don't
 think he has this I think that's a
 
 00:32:46,250 --> 00:32:51,679
-reasonable assessment it is at this
+reasonable assessment. It is at this
 
 00:32:48,980 --> 00:32:57,140
 point that you start to hear something
@@ -1659,7 +1684,7 @@ it sort of flash like panes of glass and
 then a tree near erupts in the same
 
 00:33:24,289 --> 00:33:33,940
-flame what color it's shit holy fucking
+flame. what color it's shit holy fucking
 
 00:33:32,480 --> 00:33:46,799
 shit
@@ -1677,10 +1702,10 @@ cloud
 that's that chunky chowder yeah listen
 
 00:33:56,119 --> 00:34:04,619
-I'm disappointed in real life dude he
+I'm disappointed in real life. Dude, he
 
 00:34:02,670 --> 00:34:07,080
-keeps going back for more
+keeps going back for more.
 
 00:34:04,619 --> 00:34:09,480
 like I don't know if it's intact I don't
@@ -1764,28 +1789,28 @@ chris is really enjoying this it was a
 prophecy the whole time no okay my like
 
 00:35:40,289 --> 00:35:44,849
-okay the Rings are here the wings are at
+okay the rings are here. The rings are at
 
 00:35:44,369 --> 00:35:47,849
-the wedding
+the wedding.
 
 00:35:44,849 --> 00:35:48,949
-okay I'm sure of that wonderful I'm so
+okay I'm sure of that. Wonderful. I'm so
 
 00:35:47,849 --> 00:35:54,029
-happy to hear it
+happy to hear it.
 
 00:35:48,949 --> 00:35:56,789
-we're at the wedding are they I do there
+We're at the wedding. Are they I do there
 
 00:35:54,030 --> 00:36:00,390
-it is yeah you don't know the Friends of
+it is yeah you don't know the friends of
 
 00:35:56,789 --> 00:36:02,489
 as abiding as the earth itself how long
 
 00:36:00,389 --> 00:36:06,089
-have you been here rings of made of mud
+have you been here? rings of made of mud
 
 00:36:02,489 --> 00:36:09,839
 and earth don't worry your foot anything
@@ -1818,16 +1843,16 @@ situated between the place that has been
 created for you and Brahma to prepare
 
 00:36:39,530 --> 00:36:50,220
-and get into the ritual space there is a
+and get into the ritual space, there is a
 
 00:36:47,519 --> 00:36:53,489
-tree in the center of the growth that is
+tree in the center of the grove that is
 
 00:36:50,219 --> 00:36:56,519
-now alight with that same flame and
+now alight with that same flame, and
 
 00:36:53,489 --> 00:36:59,250
-every leaf on it is shining like a like
+every leaf on it is shining like
 
 00:36:56,519 --> 00:37:03,389
 a chunk of stained glass and it's just
@@ -1836,13 +1861,13 @@ a chunk of stained glass and it's just
 ringing like a bell and the tree itself
 
 00:37:03,389 --> 00:37:11,339
-the trunk unfolds almost like a like a
+the trunk unfolds almost like a
 
 00:37:06,420 --> 00:37:15,059
-flower opening and from it steps Grove
+flower opening, and from it steps grove
 
 00:37:11,340 --> 00:37:18,300
-keeper in the land who you have met in
+keeper in the land, who you have met in
 
 00:37:15,059 --> 00:37:23,670
 the past and she is perhaps the only
@@ -1896,7 +1921,7 @@ it's bad news she so she as she she
 emerges and looks over to your place of
 
 00:38:26,028 --> 00:38:30,478
-preparation and looks over to Brahmas
+preparation and looks over to Brahma's
 
 00:38:28,469 --> 00:38:32,579
 place of preparation and then looks out
@@ -1905,16 +1930,16 @@ place of preparation and then looks out
 at all these other people who she
 
 00:38:32,579 --> 00:38:38,579
-suspects are not sufficiently reverent
+suspects are not sufficiently reverent,
 
 00:38:34,679 --> 00:38:43,798
-and she shouts and every tree shouts
+and she shouts, and every tree shouts
 
 00:38:38,579 --> 00:38:46,048
-along with her it is time oh my goodness
+along with her. it is time oh my goodness
 
 00:38:43,798 --> 00:38:47,338
-rosy drops the snacks off with go
+Rosie drops the snacks off with go
 
 00:38:46,048 --> 00:38:49,978
 through so you still can't come inside
@@ -1944,10 +1969,12 @@ when your real pockets do I do that with
 dice I don't know oh there's nothing in
 
 00:39:13,869 --> 00:39:17,769
-the pocket now go ahead and roll a
+the pocket. Now go ahead and roll a
 
 00:39:15,280 --> 00:39:19,930
-perception roll okay now I would have
+perception roll. 
+
+\pat Okay now I would have
 
 00:39:17,769 --> 00:39:20,650
 taken this super seriously yes my ass
@@ -1956,16 +1983,20 @@ taken this super seriously yes my ass
 quite
 
 00:39:20,650 --> 00:39:24,849
-I didn't keister these rings did I know
+I didn't keister these rings, did I? 
+
+\dm No,
 
 00:39:23,380 --> 00:39:29,890
-you would know that right that wouldn't
+you would know that. 
+
+\pat Right, that wouldn't
 
 00:39:24,849 --> 00:39:32,829
-require a perception roll okay what does
+require a perception roll. okay what does
 
 00:39:29,889 --> 00:39:38,079
-it mean to keister a ring nature's
+it mean to keister a ring? Nature's
 
 00:39:32,829 --> 00:39:38,949
 pocket what just become look you don't
@@ -1983,16 +2014,16 @@ bad luck bad luck a ring wedding ring no
 oh oh oh is there anyone super fancy
 
 00:39:46,869 --> 00:39:51,400
-around here who's wearing rings that
+around here, who's wearing rings that
 
 00:39:48,849 --> 00:39:53,139
 look pretty much like the rings that I
 
 00:39:51,400 --> 00:39:56,260
-should have there's got to be fancy
+should have? There's got to be fancy
 
 00:39:53,139 --> 00:39:58,449
-people here dressed up right it's a
+people here dressed up right? It's a
 
 00:39:56,260 --> 00:39:59,020
 pretty low-key wedding you know the four
@@ -2004,19 +2035,21 @@ stud
 if you roll the dice maybe somebody good
 
 00:40:00,550 --> 00:40:10,440
-will happen for you once we got 16 16 is
+will happen for you once we got 16 
+
+\dm 16 is
 
 00:40:05,050 --> 00:40:13,060
-enough as you are as you are walking
+enough. As you are walking
 
 00:40:10,440 --> 00:40:16,990
-toward the center of the Grove to what
+toward the center of the grove to what
 
 00:40:13,059 --> 00:40:21,239
-you are sure is your death you feel
+you are sure is your death, you feel
 
 00:40:16,989 --> 00:40:21,239
-something sort of fall in your left boot
+something sort of fall in your left boot.
 
 00:40:22,320 --> 00:40:27,880
 did I like talk him way in the secret my
@@ -2040,7 +2073,7 @@ feel them shift in your boot okay right
 so I'm real casually like real cool I
 
 00:40:42,190 --> 00:40:48,639
-keep going but I take my boot off so I'm
+keep going but I take my boot off, so I'm
 
 00:40:45,429 --> 00:40:51,279
 kind of hopping like half way yeah half
@@ -2052,7 +2085,9 @@ hopping but like but like stealthy I
 will make a roll for that if you need me
 
 00:40:52,659 --> 00:40:57,339
-to no no it's all good
+to...?
+
+\dm No no it's all good
 
 00:40:54,460 --> 00:40:59,869
 yeah and then I pulled the boot off
@@ -2073,25 +2108,25 @@ you only find one ring yeah that's right
 so I I I got to tuck that first boot
 
 00:41:12,739 --> 00:41:21,579
-under my arm and then you don't worry
+under my arm, and then you don't worry
 
 00:41:17,869 --> 00:41:25,069
 about a stealth roll on the on the
 
 00:41:21,579 --> 00:41:27,079
-perimeter where I am I'm watching and I
+perimeter where I'm watching and I
 
 00:41:25,070 --> 00:41:33,710
-have a hand on lagari and I just say
+have a hand on Ligotti, and I just say
 
 00:41:27,079 --> 00:41:36,650
-it's a beautiful ritual awesome I love
+it's a beautiful ritual. Awesome I love
 
 00:41:33,710 --> 00:41:39,800
 it so much so I get the the other boot
 
 00:41:36,650 --> 00:41:41,210
-off and and then the sock too because
+off, and then the sock too, because
 
 00:41:39,800 --> 00:41:43,580
 they knew this one is the fancier ring
@@ -2118,7 +2153,7 @@ completely barefoot now oh I got one
 sock on yeah well at least you got one
 
 00:42:05,300 --> 00:42:13,360
-sock on it's like being a civilized
+sock on. It's like being a civilized
 
 00:42:08,360 --> 00:42:13,360
 person in some ways oh my gosh
@@ -2130,13 +2165,17 @@ absolutely got that corn change email in
 B oh yeah yeah yeah that fresh foot
 
 00:42:21,139 --> 00:42:31,210
-that's that zone Walnut Dankgrass yes
+that's that zone. Walnut Dankgrass?
+
+\trystan Yes?
 
 00:42:24,769 --> 00:42:38,530
-I would like you to tell me what your
+\dm I would like you to tell me what your
 
 00:42:31,210 --> 00:42:42,590
-Maliki wedding raiment is oh so it's
+Mielikki wedding raiment is. 
+
+\trystan Oh so it's
 
 00:42:38,530 --> 00:42:44,750
 light colors for once right it's it's
@@ -2166,13 +2205,13 @@ light blues and purples oh wow and then
 she has this wreath of different herbs
 
 00:43:08,829 --> 00:43:16,529
-snow flower egrant fragrant and then
+snow flower egrant fragrant, and then
 
 00:43:12,239 --> 00:43:18,689
 a horn that's made of the different
 
 00:43:16,530 --> 00:43:20,100
-twigs and branches and stuff and it just
+twigs and branches and stuff, and it just
 
 00:43:18,690 --> 00:43:23,250
 looks really tasteful and it curves up
@@ -2181,7 +2220,7 @@ looks really tasteful and it curves up
 like a like a unicorn absolutely so you
 
 00:43:23,250 --> 00:43:26,760
-the first right it's a fresh so clean
+the first right it's a fresh, so clean
 
 00:43:25,590 --> 00:43:30,329
 clean No
@@ -2202,7 +2241,7 @@ hanging on the bush the whole time ya
 know you must know where we're trying to
 
 00:43:42,900 --> 00:43:53,090
-attack the food table like Raptors in
+attack the food table like raptors in
 
 00:43:44,940 --> 00:43:54,360
 Jurassic Park I'm going to the other
@@ -2211,7 +2250,7 @@ Jurassic Park I'm going to the other
 yeah
 
 00:43:54,360 --> 00:43:57,870
-Saoirse is just like trying to sort of
+Sorsha is just like trying to sort of
 
 00:43:56,909 --> 00:43:59,429
 like a racehorse
@@ -2223,7 +2262,7 @@ oh yeah I'm like just trying to put up a
 kind of psychic shield between her in
 
 00:44:01,710 --> 00:44:06,119
-this she's learned it's not a productive
+this. She's learned it's not a productive
 
 00:44:03,840 --> 00:44:07,620
 way to spend her time trying to keep
@@ -2238,16 +2277,16 @@ bad fun dance mm-hmm and it's there's a
 few moments where you are the only one
 
 00:44:15,840 --> 00:44:24,269
-that has emerged and if you think I mean
+that has emerged, and if you think I mean
 
 00:44:20,730 --> 00:44:26,420
-perceptually it's some millennia but it
+perceptually -- it's some millennia but it
 
 00:44:24,269 --> 00:44:31,920
-can't be more than a few seconds and
+can't be more than a few seconds -- and
 
 00:44:26,420 --> 00:44:36,599
-when you see brahma emerge her blonde
+when you see Brahma emerge, her blonde
 
 00:44:31,920 --> 00:44:41,329
 hair has been folded into massive tight
@@ -2268,22 +2307,22 @@ impossible impossible to wear and she is
 managing it with absolute
 
 00:45:00,449 --> 00:45:06,029
-professionalism the rest of her
+professionalism. the rest of her
 
 00:45:02,610 --> 00:45:09,780
 arraignment is the exact moment where
 
 00:45:06,030 --> 00:45:15,030
-fall becomes winter it is a kind of
+fall becomes winter. It is a kind of
 
 00:45:09,780 --> 00:45:18,150
-plate mail all individual leaves but not
+plate mail all individual leaves, but not
 
 00:45:15,030 --> 00:45:21,060
-one type of leaf it looks like the
+one type of leaf. It looks like the
 
 00:45:18,150 --> 00:45:24,960
-forest floor and it is glinting in the
+forest floor, and it is glinting in the
 
 00:45:21,059 --> 00:45:28,259
 late light here in this moment
@@ -2292,7 +2331,7 @@ late light here in this moment
 as night is approaching and grove keeper
 
 00:45:28,260 --> 00:45:35,160
-Malayan looks at the Sun that is
+Malayan looks at the sun that is
 
 00:45:31,230 --> 00:45:39,900
 attempting to dip its way below the edge
@@ -2301,28 +2340,35 @@ attempting to dip its way below the edge
 and steal this moment and she points at
 
 00:45:39,900 --> 00:45:48,809
-it and says you will not and then she
+it and says
+\malayan You will not.
+\dm and then she
 
 00:45:46,260 --> 00:45:55,050
 drops her hand and then she looks and
 
 00:45:48,809 --> 00:46:00,679
-she says the rings and then she gives
+she says,
+
+\malayan The rings. 
+\dm And then she gives
 
 00:45:55,050 --> 00:46:04,320
-you a ring and she gives a Brahma a ring
+you a ring, and she gives a Brahma a ring
 
 00:46:00,679 --> 00:46:06,960
 for you guys to place it and she says
 
 00:46:04,320 --> 00:46:16,880
-this is not our custom but I understand
+\malayan This is not our custom, but I understand
 
 00:46:06,960 --> 00:46:20,670
-that the youth engage in it so Brahma
+that the youth engage in it. 
+
+\dm So Brahma
 
 00:46:16,880 --> 00:46:22,769
-like hands shaking it's like trying
+like, hands shaking, it's like trying
 
 00:46:20,670 --> 00:46:25,470
 desperately to find like the right
@@ -2364,7 +2410,7 @@ her nail and watches this with some
 interest just like in an anthropological
 
 00:46:54,179 --> 00:47:02,868
-way and then from her pouch she
+way, and then from her pouch she
 
 00:46:58,199 --> 00:47:08,639
 retrieves several feet of green and red
@@ -2376,19 +2422,19 @@ silk cord and she brings them out and
 then she she wraps them around your held
 
 00:47:13,588 --> 00:47:22,650
-hands and they're loose like there there
+hands, and they're loose like they're 
 
 00:47:18,329 --> 00:47:27,960
 sure and certain but they're loose you
 
 00:47:22,650 --> 00:47:30,630
-can still move inside the hand fast and
+can still move inside the handfast, and
 
 00:47:27,960 --> 00:47:32,869
 then she looks at you and says your
 
 00:47:30,630 --> 00:47:32,869
-words
+words.
 
 00:47:34,548 --> 00:47:47,670
 oh man a lot of stuff in there I do many
@@ -2400,10 +2446,12 @@ wonders so I look at Brahma and it's
 clear that I've prepared something and
 
 00:47:49,469 --> 00:47:56,189
-I'm not as eloquent as most but I look
+I'm not as eloquent as most, but I look
 
 00:47:54,358 --> 00:47:58,409
-her dead in the eyes and I say my words
+her dead in the eyes and I say
+
+\walnut My words
 
 00:47:56,190 --> 00:48:00,480
 may not be sweet and my looks may not be
@@ -2436,22 +2484,22 @@ find out how we got up to this wedding
 point yeah let's investigate it and
 
 00:48:39,858 --> 00:48:43,239
-rebus be stinger thank you so much
+Driebus Beestinger thank you so much
 
 00:48:52,550 --> 00:49:03,900
 Oh got her yeah yeah you know so you
 
 00:48:59,460 --> 00:49:07,409
-have recently returned to the drawn and
+have recently returned to the Dran and
 
 00:49:03,900 --> 00:49:09,809
-courtier with a new pet now my
+Courtier with a new pet. Now my
 
 00:49:07,409 --> 00:49:12,779
 presumption you tell me my presumption
 
 00:49:09,809 --> 00:49:15,059
-is that you emerged from the jungles the
+is that you emerged from the jungles -- the
 
 00:49:12,780 --> 00:49:17,550
 hot and steamy jungles of coal salts
@@ -2463,10 +2511,10 @@ yeah it's a deeply erotic jungles of so
 erotic a different kind of show you know
 
 00:49:21,360 --> 00:49:26,700
-what I'm talking about its acquisitions
+what I'm talking about its Acquisitions
 
 00:49:22,710 --> 00:49:28,470
-incorporated not naive now I have my
+Incorporated not naive now I have my
 
 00:49:26,699 --> 00:49:30,599
 presumption is that you utilized your
@@ -2475,13 +2523,13 @@ presumption is that you utilized your
 second level cartography powers correct
 
 00:49:30,599 --> 00:49:34,920
-so tell me the story that you told the
+So tell me the story that you told the
 
 00:49:32,760 --> 00:49:37,670
 tiny lizard that's Sebastian that you
 
 00:49:34,920 --> 00:49:42,720
-have brought back with you all right oh
+have brought back with you. all right oh
 
 00:49:37,670 --> 00:49:44,820
 geez okay any story you like because
@@ -2493,13 +2541,13 @@ it's magic and it works I think I think
 that my preference would be to speak the
 
 00:49:46,710 --> 00:49:50,240
-language that Sebastian speech
+language that Sebastian speaks
 
 00:49:53,760 --> 00:49:58,500
 oh geez I don't know if I have that many
 
 00:49:55,800 --> 00:50:01,470
-you do your best son whered listen take
+you do your best son whered listen, take
 
 00:49:58,500 --> 00:50:05,789
 your time okay and feel free to chime in
@@ -2511,7 +2559,7 @@ you from you for um so I I leaned down
 to Sebastian and I go you look down him
 
 00:50:08,579 --> 00:50:23,009
-and as you're about to speak he says
+and as you're about to speak he says,
 
 00:50:10,340 --> 00:50:25,140
 destination acquisition I don't know the
@@ -2535,13 +2583,13 @@ raishin raishin what I dig in my pocket
 go station a gas station
 
 00:50:45,679 --> 00:50:57,059
-yeah I'm sorry all I have is this jar of
+yeah I'm sorry, all I have is this jar of
 
 00:50:48,840 --> 00:50:59,550
 eyeballs what I picked some grass and I
 
 00:50:57,059 --> 00:51:01,710
-offer it yeah he'll nibble on it okay
+offer it. yeah he'll nibble on it okay
 
 00:50:59,550 --> 00:51:13,109
 it's gonna sticks out and proclaims okay
@@ -2553,19 +2601,19 @@ wonderful vacation so yeah I will I will
 do that super well cuz Rosie knows a lot
 
 00:51:15,630 --> 00:51:19,050
-of those work yeah and so the words all
+of those words. yeah and so the words all
 
 00:51:17,070 --> 00:51:21,660
-end with Shawn yeah all the words end
+end with -tion yeah all the words end
 
 00:51:19,050 --> 00:51:25,619
-with Shawn it's great nice and and it
+with -tion. It's great nice and and it
 
 00:51:21,659 --> 00:51:27,449
 takes an hour it's a full hour of you
 
 00:51:25,619 --> 00:51:31,079
-relating this to this lizard yeah
+relating this to this lizard. yeah
 
 00:51:27,449 --> 00:51:33,569
 skillful it's fine you in you know in
@@ -2580,7 +2628,7 @@ can hear a sort of larval God sausage
 you know being consistently pureed by a
 
 00:51:41,460 --> 00:51:48,389
-phalanx of divine angels yeah all right
+phalanx of divine angels. yeah all right
 
 00:51:45,980 --> 00:51:49,949
 every now and then like you take like
@@ -2592,7 +2640,7 @@ that's happening you're like let's just
 let's get back to the story I like that
 
 00:51:51,389 --> 00:51:55,480
-because that's just Jerry flaying omen
+because that's just Jerry flaying Omin
 
 00:51:53,670 --> 00:51:59,380
 here in his game
@@ -2601,10 +2649,10 @@ here in his game
 now Walnut Dankgrass as I suggested so
 
 00:51:59,380 --> 00:52:04,450
-you urea merge in your room upstairs
+you reemerge in your room upstairs
 
 00:52:01,420 --> 00:52:06,639
-okay with your tiny friend you come down
+okay with your tiny friend. You come down
 
 00:52:04,449 --> 00:52:11,079
 you only been gone for a few days really
@@ -2619,10 +2667,10 @@ does indeed she is only a hundred years
 old it's just you know good night's rest
 
 00:52:15,969 --> 00:52:25,059
-yeah you're glowing it's like my secret
+yeah you're glowing It's like my secret
 
 00:52:20,550 --> 00:52:28,050
-lots of water hydration exercise of a
+lots of water, hydration, exercise of a
 
 00:52:25,059 --> 00:52:28,049
 sex glow about you
@@ -2631,7 +2679,7 @@ sex glow about you
 [Applause]
 
 00:52:30,449 --> 00:52:40,528
-well I remember that yes I exfoliated
+Well I remember that yes I exfoliated
 
 00:52:37,260 --> 00:52:46,920
 exactly right now Walnut as I suggested
@@ -2646,7 +2694,7 @@ jobs have come in
 jobs have come in jobs documents indeed
 
 00:52:53,849 --> 00:52:58,470
-if you were to open up your documents
+if you were to open up your documents,
 
 00:52:56,548 --> 00:53:01,619
 there's kit I think that you would find
@@ -2658,13 +2706,13 @@ that I snuck I want you to open the
 envelope marked one oh my goodness this
 
 00:53:04,559 --> 00:53:08,849
-is my that's right this is acquisitions
+is my that's right this is Acquisitions
 
 00:53:06,568 --> 00:53:11,058
-incorporated legis this is like a legacy
+Incorporated legis this is like a legacy
 
 00:53:08,849 --> 00:53:13,950
-gift you should put it in the show
+gift you should put it in the show.
 
 00:53:11,059 --> 00:53:15,778
 there's a lot of stuff in there forget
@@ -2700,43 +2748,43 @@ I will put it in the Dre straight and
 then I will also read it there it is
 
 00:53:40,018 --> 00:53:48,058
-okay aid in finding Brahma Ludi a
+okay aid in finding Brahma Lutier 
 
 00:53:42,150 --> 00:53:50,639
-secured value 100 PP Ranger Oak true
+secured value 100 PP Ranger Oak Truestrike
 
 00:53:48,059 --> 00:53:52,650
-strike of acquisitions incorporated team
+of Acquisitions Incorporated Team
 
 00:53:50,639 --> 00:53:54,538
-Bellerophon seems assistance in the
+Bellerophon seeks assistance in the
 
 00:53:52,650 --> 00:53:58,858
-matter of a lost employee the
+matter of a lost employee, the
 
 00:53:54,539 --> 00:54:01,230
-cartographer brahma secret whoa here he
+cartographer Brahma secret whoa here he
 
 00:53:58,858 --> 00:54:03,150
 has utilized all proper channels in the
 
 00:54:01,230 --> 00:54:07,108
-creation of this task in a way that is
+creation of this task, in a way that is
 
 00:54:03,150 --> 00:54:12,990
-for him disturbingly professional oh but
+for him disturbingly professional. oh but
 
 00:54:07,108 --> 00:54:17,940
-it's from the secretary right okay well
+it's from the secretary right okay, well
 
 00:54:12,989 --> 00:54:23,479
-I hate the idea of aiding oak but it is
+I hate the idea of aiding Oak, but it is
 
 00:54:17,940 --> 00:54:27,088
 for a very good cause is it is it what
 
 00:54:23,480 --> 00:54:28,500
-I'm just saying sure she's no dummy she
+I'm just saying. Sure she's no dummy she
 
 00:54:27,088 --> 00:54:30,838
 probably don't wanna be yeah she's fine
@@ -2754,13 +2802,13 @@ you so maybe you know no I don't want to
 see you get hurt that's all well I mean
 
 00:54:38,789 --> 00:54:43,140
-we should still find out where she is
+we should still find out where she is.
 
 00:54:41,219 --> 00:54:49,799
-we don't have to turn her in we would
+we don't have to turn her in, we would
 
 00:54:43,139 --> 00:54:50,940
-never do that I see okay all right that
+never do that. I see. okay all right that
 
 00:54:49,800 --> 00:54:53,369
 sounds like a very important job that we
@@ -2778,13 +2826,13 @@ you just open up the document see back
 in the emptied into the stove that's all
 
 00:55:05,070 --> 00:55:07,769
-burned up what if she was avoiding oak
+burned up what if she was avoiding Oak
 
 00:55:06,630 --> 00:55:09,900
 what if she doesn't want to be found
 
 00:55:07,769 --> 00:55:12,509
-ya see her then she founds out oak sent
+ya see her then she founds out Oak sent
 
 00:55:09,900 --> 00:55:14,250
 you what do you think do you think this
@@ -3033,7 +3081,7 @@ like daggers at his side a bow attached
 to the back ready to seize you can see
 
 00:59:33,300 --> 00:59:39,720
-oak true strike rate hey I was hoping I
+Oak Truestrike rate hey I was hoping I
 
 00:59:36,570 --> 00:59:42,900
 was Trevor yeah dinar gets excited
@@ -3060,13 +3108,14 @@ girl I got you don't worry I got reached
 and reaching in for a gold piece and as
 
 00:59:57,150 --> 01:00:05,340
-soon as I see oak the hand is on the
+soon as I see Oak, the hand is on the
 
 00:59:59,400 --> 01:00:09,150
-staff exactly and not for support no for
+staff. Exactly.
+And not for support. No, for
 
 01:00:05,340 --> 01:00:12,059
-beating down do you um what are you
+beating down. Do you um what are you
 
 01:00:09,150 --> 01:00:14,039
 doing here I'm here for the job I mean
@@ -3087,31 +3136,31 @@ should have the document what we don't
 need a document sir what are you what
 
 01:00:24,960 --> 01:00:28,409
-are you talking about well I'm just
+are you talking about? Well I'm just
 
 01:00:26,070 --> 01:00:32,160
-saying you're here for the job I routed
+saying you're here for the job. I routed
 
 01:00:28,409 --> 01:00:35,579
-a job through the secretary and yeah you
+a job through the secretary and yeah, you
 
 01:00:32,159 --> 01:00:40,769
-should have it yeah what let's go wait
+should have it yeah what let's go Wait,
 
 01:00:35,579 --> 01:00:41,750
-we have to go with you yeah we work
+we have to go with you. yeah we work
 
 01:00:40,769 --> 01:00:48,630
-better alone
+better alone.
 
 01:00:41,750 --> 01:00:56,159
-not this time mm okay uh did you feed
+Not this time. mm okay uh did you feed
 
 01:00:48,630 --> 01:00:59,700
-this horse Oh a promise ring doesn't
+this horse? Oh a promise ring doesn't
 
 01:00:56,159 --> 01:01:05,849
-sound like something we would do no no
+sound like something we would do, no no
 
 01:00:59,699 --> 01:01:06,210
 even a little bit who's Brahma who are
@@ -3135,10 +3184,10 @@ it's very it's very fine thank you
 it's not as good as the one that I
 
 01:01:23,230 --> 01:01:29,110
-wanted to keep but it's still it's still
+wanted to keep, but it's still... it's still
 
 01:01:25,329 --> 01:01:31,960
-fine how about those things you'd change
+fine. How about those things you'd change
 
 01:01:29,110 --> 01:01:33,550
 about it though right I mean here yeah
@@ -3150,10 +3199,10 @@ but I don't I'm not trying no I don't
 wanna be friends with you miss meet miss
 
 01:01:38,380 --> 01:01:45,940
-be stinger tell me that this graveyard
+Beestinger tell me that this graveyard
 
 01:01:41,199 --> 01:01:50,849
-chic please call me business bee stinger
+chic please call me business Beestinger
 
 01:01:45,940 --> 01:01:53,500
 if you nasty no I'm gonna tell coriander
@@ -3189,10 +3238,10 @@ him we don't want any of that mess but
 he's outside he said something about
 
 01:02:16,570 --> 01:02:22,000
-Brahmas ring he asked me if we'd fed it
+Brahma's ring. He asked me if we'd fed it
 
 01:02:19,329 --> 01:02:25,210
-to coriander yeah I thought it was like
+to Coriander. Yeah I thought it was like
 
 01:02:22,000 --> 01:02:33,070
 what did you know that's ridiculous
@@ -3210,13 +3259,13 @@ something the fee of reminds me from
 fine okay outside right now yeah my
 
 01:02:43,420 --> 01:02:52,480
-guess is that Brahmas ring brought him
+guess is that Brahma's ring brought him
 
 01:02:45,880 --> 01:02:52,780
-here oh well I did not think that one
+here. Oh well I did not think that one
 
 01:02:52,480 --> 01:02:58,300
-through
+through.
 
 01:02:52,780 --> 01:03:01,510
 I usually thinks me things through so
@@ -3231,7 +3280,7 @@ do this with him no of course not no I
 look at the guys like maybe they're yeah
 
 01:03:06,309 --> 01:03:21,250
-I look at dinar like yeah no of course
+I look at Donaar like, yeah, no of course
 
 01:03:08,730 --> 01:03:24,250
 you ignoring us I like he's good at what
@@ -3240,22 +3289,22 @@ you ignoring us I like he's good at what
 he does yes he's not he's flashy and
 
 01:03:24,250 --> 01:03:30,780
-gross they're like oh yeah air band yeah
+gross they're like oh yeah air band yeah,
 
 01:03:26,409 --> 01:03:30,779
 yeah he thinks he's so cool and
 
 01:03:30,960 --> 01:03:36,220
-he's up there humming singing to himself
+he's up there humming, singing to himself.
 
 01:03:33,130 --> 01:03:37,750
-he's just he's he's humming oh yeah he's
+he's just he's he's humming oh yeah He's
 
 01:03:36,219 --> 01:03:40,230
 he's the sort of motherfucker that would
 
 01:03:37,750 --> 01:03:43,840
-wear his own bands shirt Oh where's
+wear his own bands shirt. Oh where's
 
 01:03:40,230 --> 01:03:45,010
 jinora is like yeah Rosie cast violence
@@ -3813,10 +3862,10 @@ Westbridge okay that can involve any man
 or of hijackers okay I leaned down to
 
 01:13:45,649 --> 01:13:52,879
-coriander and I say we leave with oak in
+coriander and I say we leave with Oak in
 
 01:13:49,489 --> 01:13:55,389
-the back but oak has terrible diarrhea
+the back but Oak has terrible diarrhea
 
 01:13:52,880 --> 01:13:59,029
 and
@@ -3861,7 +3910,7 @@ it's filled with the most beautiful
 elves you've ever seen and they they
 
 01:14:26,630 --> 01:14:32,359
-look at oak they can see him through the
+look at Oak they can see him through the
 
 01:14:28,850 --> 01:14:34,490
 windows and they all barf simultaneous
@@ -3873,7 +3922,7 @@ like a chorus yeah they just all like a
 vomit choir yeah and he's embarrassed
 
 01:14:36,829 --> 01:14:43,869
-and and oak starts to cry and then we
+and and Oak starts to cry and then we
 
 01:14:41,210 --> 01:14:43,869
 get to Westbridge
@@ -4053,7 +4102,7 @@ coming up from places like Waterdeep on
 the long road and so as soon as you
 
 01:17:54,869 --> 01:18:05,479
-approach and open up the door oak leaps
+approach and open up the door Oak leaps
 
 01:18:00,060 --> 01:18:08,850
 out and he is looking with great intent
@@ -4575,7 +4624,7 @@ mind going on in there big guy yeah so
 use your words and I describe that I do
 
 01:26:28,619 --> 01:26:35,609
-what I say what he just said that oak
+what I say what he just said that Oak
 
 01:26:29,970 --> 01:26:37,440
 get you 6 okay so you're describing this
@@ -5025,7 +5074,7 @@ off and he's gonna make his way toward
 this in right which might just be his
 
 01:34:21,060 --> 01:34:31,250
-house I mean who knows oak is with you
+house I mean who knows Oak is with you
 
 01:34:26,180 --> 01:34:34,350
 and he says there's two fucking churches
@@ -5238,7 +5287,7 @@ yeah yeah whoo and then so even before
 the cart has stopped in front of this
 
 01:38:14,429 --> 01:38:22,918
-place oak is out and he wipes his brow
+place Oak is out and he wipes his brow
 
 01:38:19,349 --> 01:38:25,529
 with his thumb and he says he's going in
@@ -5424,7 +5473,7 @@ should right so it sort of is a concept
 that is fixed in space it consistent yes
 
 01:42:00,319 --> 01:42:09,539
-guys get up here so he so oak tree
+guys get up here so he so Oak tree
 
 01:42:07,470 --> 01:42:11,220
 strike is looking up at you as you're
@@ -5580,10 +5629,10 @@ um can I hop on your shoulders in ride
 yes yes deal Rosie's on my back and
 
 01:45:11,189 --> 01:45:16,590
-we're both muttering about oak tree
+we're both muttering about Oak Truestrike
 
 01:45:14,458 --> 01:45:18,630
-strike can't believe it so he is so he
+can't believe it so he is so he
 
 01:45:16,590 --> 01:45:22,319
 has gone down immediately as soon as
@@ -5658,7 +5707,7 @@ but nothing to loot
 that's dungeon hell so we'll be right on
 
 01:46:41,099 --> 01:46:46,199
-oak like almost like I'm trying to like
+Oak like almost like I'm trying to like
 
 01:46:43,109 --> 01:46:51,769
 I'm trying to pass him yeah I'm ready
@@ -5931,19 +5980,19 @@ Rosie completely misunderstands she's
 like no it's not it's actually perfectly
 
 01:51:49,609 --> 01:51:59,869
-healthy and normal it happens to every
+healthy and normal, it happens to every
 
 01:51:55,310 --> 01:52:04,910
-young dragon all this down here yeah
+young dragon. all this down here yeah
 
 01:51:59,869 --> 01:52:07,460
-that is what I meant also fiends that's
+that is what I meant. also fiends that's
 
 01:52:04,909 --> 01:52:12,380
 a separate conversation and it was the
 
 01:52:07,460 --> 01:52:14,600
-one I was starting I'm just so confused
+one I was starting I'm just so confused.
 
 01:52:12,380 --> 01:52:16,279
 yeah yeah it's just like it's almost
@@ -5955,13 +6004,13 @@ that's like anxious okay
 viscous evil just like collapsing and
 
 01:52:20,449 --> 01:52:26,679
-increasing and density so let's run get
+increasing and density. So let's run get
 
 01:52:22,939 --> 01:52:26,679
 our weapons out yeah
 
 01:52:30,029 --> 01:52:39,489
-do you have a cool sound you'd like to
+Do you have a cool sound you'd like to
 
 01:52:32,109 --> 01:52:41,829
 make Chris because he still chirps even
@@ -5973,7 +6022,7 @@ up on the end yeah of the staff
 everyone's he still has a lot to say if
 
 01:52:45,340 --> 01:52:49,420
-it's evil down there and Brahmas down
+it's evil down there and Brahma's down
 
 01:52:47,079 --> 01:52:50,949
 there and when I get that okay well I
@@ -5982,13 +6031,13 @@ there and when I get that okay well I
 want to get down there as soon as as
 
 01:52:50,949 --> 01:52:55,569
-possible okay so let's get going I'm
+possible. okay so let's get going I'm
 
 01:52:53,560 --> 01:52:56,200
-gonna do dark kruseman on myself that's
+gonna do dark kruseman on myself. That's
 
 01:52:55,569 --> 01:53:02,259
-a great idea
+a great idea.
 
 01:52:56,199 --> 01:53:07,739
 need it real bad so all the as you get
@@ -6003,7 +6052,7 @@ alight but the color of the flame shifts
 it's almost like the the surface like an
 
 01:53:18,939 --> 01:53:27,519
-oil slick the color is constantly
+oil slick. The color is constantly
 
 01:53:22,359 --> 01:53:31,960
 shifting between a host of colors it
@@ -6015,16 +6064,17 @@ can't seem to decide it's party lights
 oh nice yeah yeah exactly
 
 01:53:36,909 --> 01:53:50,500
-can I get a perception check from you
+Can I get a perception check from you,
 
 01:53:38,710 --> 01:53:54,189
-Rosie you over at the ethics it's a six
+Rosie? you over at the ethics it's a six
 
 01:53:50,500 --> 01:54:01,329
-that is terrible can I get a perception
+that is terrible 
+\dm Can I get a perception
 
 01:53:54,189 --> 01:54:03,279
-role from you Walnut come on oh yay 22
+roll from you, Walnut come on oh yay 22
 
 01:54:01,329 --> 01:54:07,239
 would you please open your documents you
@@ -6063,28 +6113,28 @@ out and I immediately I know that this
 scribble has got to be
 
 01:54:42,340 --> 01:54:47,480
-the secretary right yeah because that's
+the secretary right? Yeah because that's
 
 01:54:45,109 --> 01:54:50,750
 the only thing I've experienced but I
 
 01:54:47,479 --> 01:54:52,549
-get this note and it's in here this is
+get this note, and it's in here this is
 
 01:54:50,750 --> 01:54:54,800
 for immediate distribution document sirs
 
 01:54:52,550 --> 01:54:56,659
-noticed here all tears the wild card
+noticed here all tears the Wildcard
 
 01:54:54,800 --> 01:55:01,100
-license of team Bellerophon is hereby
+License of Team Bellerophon is hereby
 
 01:54:56,659 --> 01:55:02,809
-revoked oke true strike Phoenix anvil
+revoked. Oak Truestrike, Phoenix anvil
 
 01:55:01,100 --> 01:55:04,510
-and Pendragon b-string obtained
+and Pendragon b-string of Team
 
 01:55:02,810 --> 01:55:07,520
 Bellerophon are to be considered
@@ -6093,7 +6143,7 @@ Bellerophon are to be considered
 separate and potentially hostile to
 
 01:55:07,520 --> 01:55:11,840
-Accra is incorporated and its operations
+Acquisitions Incorporated and its operations.
 
 01:55:09,560 --> 01:55:14,810
 any registered tests issued in these
@@ -6105,7 +6155,7 @@ names are hereby and old a bounty of 700
 gold is being made available for the
 
 01:55:16,219 --> 01:55:21,579
-capture of each member
+capture of each member.
 
 01:55:17,300 --> 01:55:22,869
 documents are seal ohd so we know that's
@@ -6114,7 +6164,7 @@ documents are seal ohd so we know that's
 [Music]
 
 01:55:22,869 --> 01:55:30,109
-and it says dead or alive right
+and it says dead or alive right?
 
 01:55:27,399 --> 01:55:39,289
 preferred dead you know it doesn't say
@@ -6126,28 +6176,25 @@ so what does well not tell us about that
 yeah you waive it
 
 01:55:41,689 --> 01:55:48,229
-no I'm yeah I immediately waive it
+no I'm yeah I immediately waive it,
 
 01:55:46,219 --> 01:55:51,859
 because I look at this and I go oh this
 
 01:55:48,229 --> 01:55:53,299
-seems to be just some memo about new I'm
+seems to be just some memo about new  -- I'm
 
 01:55:51,859 --> 01:55:56,539
-saying this out loud it's a new memo
+saying this out loud -- it's a new memo
 
 01:55:53,300 --> 01:55:59,270
 about regulation pens that we need to be
 
 01:55:56,539 --> 01:56:00,590
-using he's dripping sweat and he's like
+using. He's dripping sweat and he's like
 
 01:55:59,270 --> 01:56:00,860
-see this is why I don't have a document
-
-01:56:00,590 --> 01:56:02,869
-sir
+see this is why I don't have a Documancer
 
 01:56:00,859 --> 01:56:06,409
 and I'm like I asked for you guy but
@@ -6189,10 +6236,10 @@ believe Oh H D hmm okay never me trying
 - me either way I they don't have a wild
 
 01:56:38,359 --> 01:56:41,299
-card license they're not part of
+card license. They're not part of
 
 01:56:39,529 --> 01:56:46,159
-acquisition incorporated anymore
+Acquisitions Incorporated anymore.
 
 01:56:41,300 --> 01:56:48,079
 Wow why this just came through this just
@@ -6204,10 +6251,10 @@ now it says stop stop what we're doing
 so we establish a Brahma well I mean we
 
 01:56:50,630 --> 01:56:53,869
-should still look for Brahma but we
+should still look for Brahma, but we
 
 01:56:51,920 --> 01:56:56,300
-could just take him and leave
+could just take him and leave.
 
 01:56:53,869 --> 01:56:59,029
 he's dangerous he's dangerous keep
@@ -6282,7 +6329,7 @@ this place it's trying to take you over
 to our of course we're not gonna capture
 
 01:58:11,210 --> 01:58:16,220
-oak he's our friend cohort love you love
+Oak he's our friend cohort love you love
 
 01:58:15,050 --> 01:58:17,029
 him you high five to him what are you
@@ -6750,10 +6797,10 @@ hey what's going on hey wait ten minutes
 yeah exactly and then near the end of
 
 02:05:58,380 --> 02:06:03,390
-these stairs you can see that oak true
+these stairs you can see that Oak Truestrike
 
 02:06:00,659 --> 02:06:11,819
-strike is actually lying flat down on
+is actually lying flat down on
 
 02:06:03,390 --> 02:06:15,690
 his face oh yeah as you as you pull
@@ -6981,7 +7028,7 @@ keep we'll keep it going
 we'll keep they'll keep the ruse yeah
 
 02:10:16,260 --> 02:10:22,380
-our friend here and I'm like helping oak
+our friend here and I'm like helping Oak
 
 02:10:18,569 --> 02:10:25,340
 to his feet we need to continue he's
@@ -7071,7 +7118,7 @@ dynamics so much like summer rocks
 really all right okay cool
 
 02:11:45,869 --> 02:11:50,189
-so we are gonna I'm gonna brush oak off
+so we are gonna I'm gonna brush Oak off
 
 02:11:48,510 --> 02:11:52,170
 but my hands are actually slightly
@@ -7752,7 +7799,7 @@ but they're they know don't watch don't
 look at me exactly
 
 02:24:23,488 --> 02:24:29,228
-oak leaps into attacks oh yeah oh that's
+Oak leaps into attacks oh yeah oh that's
 
 02:24:27,609 --> 02:24:31,568
 right yeah yeah you got advantage but
@@ -7839,7 +7886,7 @@ the ground obliterating it now yeah it's
 true no I killed something that was dead
 
 02:25:50,290 --> 02:25:57,650
-it took its second life yeah oak leaps
+it took its second life yeah Oak leaps
 
 02:25:54,560 --> 02:25:59,779
 at one of the nearer one or one of the
@@ -8337,7 +8384,7 @@ constructions from this shattered stone
 no longer have this easily readable
 
 02:34:38,780 --> 02:34:49,560
-import where's oak he is wandering
+import where's Oak he is wandering
 
 02:34:45,420 --> 02:34:52,829
 around like a lost child trying to find
@@ -8436,13 +8483,13 @@ he's right I don't know okay here's the
 thing
 
 02:36:42,389 --> 02:36:47,039
-I don't think I trust oak I don't know
+I don't think I trust Oak I don't know
 
 02:36:45,209 --> 02:36:48,750
 why Brahma would attack Walnut but I
 
 02:36:47,040 --> 02:36:50,610
-certainly don't trust oak why are we
+certainly don't trust Oak why are we
 
 02:36:48,750 --> 02:36:53,700
 trusting his word plus he just got his
@@ -8511,7 +8558,7 @@ does it seem irrational
 you think that he's been spending a lot
 
 02:37:49,421 --> 02:38:02,800
-of time on Reddit can oke he would he
+of time on Reddit. Can Oak he would he
 
 02:37:56,081 --> 02:38:06,911
 would we love you reddit okay
@@ -8532,22 +8579,22 @@ bitching I just OH
 did it bite us again God Oh bad what is
 
 02:38:21,130 --> 02:38:25,899
-this like lay on him aren't you a druid
+this like lay on him aren't you a druid?
 
 02:38:23,921 --> 02:38:27,761
-can't you don't you have like some herbs
+Can't you... don't you have like some herbs
 
 02:38:25,899 --> 02:38:29,501
-or something it's very bug repellent
+or something? It's very bug repellent
 
 02:38:27,761 --> 02:38:32,649
-yeah we should get some of that as soon
+yeah we should get some of that, as soon
 
 02:38:29,501 --> 02:38:35,229
-as I can see from my own get back I just
+as I can see from my own get back. I just
 
 02:38:32,649 --> 02:38:39,640
-think we should use him to get Brahma
+think we should use him to get Brahma.
 
 02:38:35,229 --> 02:38:40,300
 yeah he's scared like we could turn on
@@ -8619,16 +8666,16 @@ if you would like to continue to join us
 and have fun and figure out what is
 
 02:39:34,219 --> 02:39:38,059
-going on with all this crazy shit it is
+going on with all this crazy shit, it is
 
 02:39:35,989 --> 02:39:39,079
-gonna be on the twitches on Wednesdays
+gonna be on the Twitches on Wednesdays
 
 02:39:38,059 --> 02:39:41,239
 from 4:00 to 7:00
 
 02:39:39,079 --> 02:39:42,500
-PST come hang out with us thanks so much
+PST. Come hang out with us thanks so much
 
 02:39:41,239 --> 02:39:50,270
 penny okay

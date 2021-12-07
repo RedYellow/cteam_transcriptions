@@ -57,3 +57,4 @@ Generally use `_text_` for writing italics and `**text**` for bold. Markdown wil
 # TODO:
 
 - Include arc names (multiple episode storylines)
+- Character names in StageDir environments should render in smallcaps

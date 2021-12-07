@@ -16,6 +16,16 @@ for path in paths:
     text = re.sub("<.*?>", "", text)
 
     text = re.sub("walnut.", "Walnut", text)
+
+    mapping_dicts = {
+        "coriander": "Coriander",
+        "dinar": "Donaar",
+        "rosie": "Rosie",
+        "oak": "Oak",
+        " oke ": " Oak ",
+        "brahma": "Brahma",
+    }
+
     # test this
     # text = re.sub(r"walnut[^\n]+?(\n+[\d: ->,]+?\n+)?grass", r"Walnut Dankgrass\1", text, flags=re.DOTALL)
 
