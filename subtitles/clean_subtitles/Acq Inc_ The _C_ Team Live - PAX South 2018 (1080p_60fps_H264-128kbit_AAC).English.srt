@@ -1,3 +1,8 @@
+title: Acq Inc: The "C" Team Live - PAX South 2018
+season: 2
+arc: None
+date: None
+
 00:01:06,959 --> 00:01:15,939
 \dm Shadow Council, may our labors please
 
@@ -515,11 +520,7 @@ them in your palm. Put them in the palm
 of your hand and show me these rings!
 
 00:11:28,299 --> 00:11:32,679
-<<<<<<< HEAD
-Driebus piece know this: I am responsible
-=======
 Driebus Beestinger, know this: I am responsible
->>>>>>> 60774cf... Continued corrections
 
 00:11:31,059 --> 00:11:34,869
 for the physical security of this
@@ -557,20 +558,24 @@ true or not.
 \kate Make a bluff check.
 
 00:12:02,589 --> 00:12:11,839
-What _is_ your deception? am e send
+What _is_ your deception? 
+\pat \direct{consulting his character sheet} I- where am I here?
 
 00:12:09,740 --> 00:12:22,250
-waits patiently while you look over your
+\dm Fenn waits patiently while you look over your
 
 00:12:11,839 --> 00:12:24,279
-shitty it's that one level of rogues
+shit.
+
+\pat \direct{rolls die} Uh, fifteen? It's that one level of rogue.
 
 00:12:22,250 --> 00:12:32,269
-yeah yeah
+\dm Yeah, yeah, exactly. \direct{rolls die}
 
 00:12:24,278 --> 00:12:35,269
-\dm She says:
-\fenn Acceptable, thank you.
+She says:
+\fenn ...Acceptable
+\driebus Thank you.
 \dm and then
 
 00:12:32,269 --> 00:12:40,480
@@ -579,7 +584,7 @@ she pulls back and she approaches you,
 00:12:35,269 --> 00:12:44,809
 Donaar, and she says:
 
-\fenn there is a woman at
+\fenn There is a woman at
 
 00:12:40,480 --> 00:12:50,000
 the threshold of the grove. She has a
@@ -588,7 +593,7 @@ the threshold of the grove. She has a
 child with her, but she also has one of
 
 00:12:50,000 --> 00:12:56,659
-the seven ancient blades. I don't know if
+the seven Ancient Blades. I don't know if
 
 00:12:54,320 --> 00:13:01,010
 it's a bad omen or not, but I wouldn't
@@ -597,25 +602,28 @@ it's a bad omen or not, but I wouldn't
 allow it at my wedding. I would like your
 
 00:13:01,009 --> 00:13:07,429
-authorization to allow her entrance. well
+authorization to allow her entrance. 
+
+\donaar Well...
 
 00:13:04,610 --> 00:13:20,659
-she says that she is quite familiar with
+\dm She says that she is quite familiar with
 
 00:13:07,429 --> 00:13:21,769
-the wedding party it's good, she's fine.
+the wedding party 
 
-00:13:20,659 --> 00:13:24,439
-okay
+\donaar It's good that you're asking as _vice_-head of security.
+
+\ryan She's fine.
 
 00:13:21,769 --> 00:13:25,939
-she's fine everything's fine yeah she
+It's fine. She's fine. Everything's fine.
 
 00:13:24,440 --> 00:13:28,820
-backs oh you bet her face does not
+\dm Her face does not
 
 00:13:25,940 --> 00:13:30,440
-change an inch and she backs away and
+change an inch, and she backs away and
 
 00:13:28,820 --> 00:13:33,680
 then you see her
@@ -627,7 +635,7 @@ trundle over to the edge of the of the
 gathered group and she allows Princess
 
 00:13:37,490 --> 00:13:46,220
-sorsha and kronar to enter. They are in
+Sorsha and Chronaar to enter. They are in
 
 00:13:41,720 --> 00:13:50,149
 relatively plain clothes for an event of
@@ -642,49 +650,58 @@ anonymity in cases like this is of vital
 importance. But they have done their best
 
 00:13:57,708 --> 00:14:05,659
-to enunciate the version of kronar 
+to enunciate the version of Chronaar 
 
 00:14:01,669 --> 00:14:07,579
 that is optimally wedding ready. It looks
 
 00:14:05,659 --> 00:14:10,100
-like you can sort of tell me you've seen
+like, you can sort of tell, you've seen
 
 00:14:07,580 --> 00:14:11,930
-these flowers from the area around here
+these flowers from the area around here -- 
 
 00:14:10,100 --> 00:14:14,579
 you can tell that flowers have been
 
 00:14:11,929 --> 00:14:17,849
-gathered from many places perhaps on
+gathered from many places, perhaps on
 
 00:14:14,578 --> 00:14:21,178
-their journey to here and then she hands
+their journey to here, and then she hands
 
 00:14:17,850 --> 00:14:22,829
 them to you and then curtsies, which you
 
 00:14:21,178 --> 00:14:24,600
-haven't seen yet as you say is the first
+haven't seen yet.
+\ryan I was going to say, is the first
 
 00:14:22,828 --> 00:14:27,859
-time I've seen them since it's been it's
+time I've seen them since--
+\dm It's been, it's
 
 00:14:24,600 --> 00:14:27,860
-been a while. Yeah it's been a while
+been a while. 
+\ryan Yeah.
+
+\dm It's been a while.
 
 00:14:29,298 --> 00:14:39,419
-around rustler pin her down yeah it's
+\ryan Well, I take them, and then I pick her up, throw her around, dad stuff.
+
+\kate Wrestle her, pin her down, tickle her.
 
 00:14:36,720 --> 00:14:41,999
-sort of much authority no exactly it
+\ryan It's of like authority...
+
+\dm No exactly, it
 
 00:14:39,419 --> 00:14:44,519
 becomes it becomes like a golden lion
 
 00:14:41,999 --> 00:14:47,159
-tamarin to scenario very quickly where
+tamarin scenario very quickly, where
 
 00:14:44,519 --> 00:14:49,499
 she's thrown up but then she finds a way
@@ -696,142 +713,175 @@ to land a little bit out of the grip and
 then she is just trying to be unable to
 
 00:14:52,139 --> 00:14:58,980
-seize all together grievous B stinger
+seize altogether. Uh, Driebus Beestinger, 
 
 00:14:56,789 --> 00:15:05,269
 you've got no fucking idea where these
 
 00:14:58,980 --> 00:15:09,389
-rings are at all you don't know at all
+rings are at all. You don't know at all.
 
 00:15:05,269 --> 00:15:11,999
-you you know what a ring is you have
+You know what a ring _is_. You have
 
 00:15:09,389 --> 00:15:15,149
-thought about this in great detail you
+thought about this in great detail. You
 
 00:15:11,999 --> 00:15:18,959
-know that they are round and small and
+know that they are round and small, and
 
 00:15:15,149 --> 00:15:25,379
-that you don't have them two facts about
+that you don't have them. 
+
+\kate Two facts about
 
 00:15:18,958 --> 00:15:26,969
-range I I you know magic we're magic you
+rings. 
+
+\driebus \direct{to K'thriss} I- I... You know magic? Like, you know, _magic_...?
 
 00:15:25,379 --> 00:15:32,249
-like you're like calling out to me -
+\kris You're like calling out to me to-
 
 00:15:26,970 --> 00:15:33,899
-yeah like across the field oh he's right
+ like across the field.
+ 
+\dm Oh, he's right
 
 00:15:32,249 --> 00:15:35,850
-at the edge you can you can you have
+at the edge-- you have
 
 00:15:33,899 --> 00:15:39,139
-pure accent to make eye contact and just
+pure access.
+
+\kris You make eye contact and just
 
 00:15:35,850 --> 00:15:42,360
-wave me down and I'll and I'll get on Oh
+wave me down and I'll get on 
+
+\kthriss Oh,
 
 00:15:39,139 --> 00:15:45,558
-young bee stinger yes Jesus mom have you
+young Beestinger, yes?
+
+
+\kris have you
 
 00:15:42,360 --> 00:15:48,720
-found a way to friends or creepy as fuck
+found a way to-- 
+\driebus Jesus, mom, your friends are creepy as fuck!
 
 00:15:45,558 --> 00:15:59,009
-that's not true but now that I'm in your
+\kthriss That's not true... but now that I'm in your
 
 00:15:48,720 --> 00:16:01,309
-mind what do you have strong suspicions
+mind, what do you want? 
+
+\driebus I, uh, I... have strong suspicions
 
 00:15:59,009 --> 00:16:06,470
-that there are dark forces at play
+that there are... dark forces at play
 
 00:16:01,308 --> 00:16:13,409
-trying to sabotage this wedding powers
+trying to sabotage this wedding. Um... powers...
 
 00:16:06,470 --> 00:16:18,749
-that are looking to perhaps feel vital
+that are looking to... perhaps, steal vital
 
 00:16:13,409 --> 00:16:23,279
-resources like blood the bridal parties
+resources...
+
+\kthriss Like blood? The bridal party's
 
 00:16:18,749 --> 00:16:28,230
-viscera perhaps but they've started with
+viscera?
+
+\driebus Perhaps... but they've started with
 
 00:16:23,279 --> 00:16:35,789
-- ringing rings - the wedding rings
+the rings.
+
+\kthriss Rings? 
+
+\driebus The- the wedding rings.
 
 00:16:28,230 --> 00:16:43,139
-someone has used dark magics to obscure
+Someone has used dark magicks to... to obscure
 
 00:16:35,789 --> 00:16:50,189
-them or or teleport them or take them or
+them or, or, teleport them, or take them or...
 
 00:16:43,139 --> 00:16:54,689
-make me put them down somewhere see I
+make me put them down somewhere... 
 
 00:16:50,190 --> 00:16:56,790
-was my mom you can't tell my mom I was
+You can't tell my mom, you can't tell my mom.
+
+\kthriss I was
 
 00:16:54,690 --> 00:16:59,160
 concerned about this from the beginning
 
 00:16:56,789 --> 00:17:02,699
-right Rox I have a familiar who is
+\driebus Right, right?
+
+\kthriss I have a familiar who is
 
 00:16:59,159 --> 00:17:07,680
-shaped as a ring holder and yet I was
+shaped as a ring _holder_, and yet I was
 
 00:17:02,700 --> 00:17:10,828
-not interested with these or permitted
+not interested with these. Or permitted
 
 00:17:07,680 --> 00:17:16,380
 to get my own half-eaten scraps of
 
 00:17:10,828 --> 00:17:17,938
-cracker what were you what do you want
+cracker. What were you, what do you want
 
 00:17:16,380 --> 00:17:29,130
-to do about it are these rings important
+to do about it? Are these rings important?
 
 00:17:17,939 --> 00:17:31,830
-um hey I say yes say I thought I thought
+\driebus Um, they _say_, yes. I thought
 
 00:17:29,130 --> 00:17:35,730
-I thought sort of important but
+I thought sort of important? But
 
 00:17:31,829 --> 00:17:37,349
-apparently like super important what
+apparently like, _super_ important.
+
+\kthriss What
 
 00:17:35,730 --> 00:17:39,990
-what did they what did they look like
+did they- what did they look like?
 
 00:17:37,349 --> 00:17:42,480
-and I hustle some up real quick using
+Can I hustle some up real quick using
 
 00:17:39,990 --> 00:17:44,069
-materials I found throughout yeah can
+materials I find around the edge of the forest? 
+
+\driebus Yeah, can
 
 00:17:42,480 --> 00:17:48,420
-you do that yeah that would be great
+you do that? Yeah that would be great.
 
 00:17:44,069 --> 00:17:50,399
-probably um like like yay big can you
+\kthriss Probably.
+
+\driebus Um, like, like yay big \direct{he holds his hands a little bit apart}, \direct{}her holds his hands a little bit apart}... Can you
 
 00:17:48,420 --> 00:17:51,580
-see it in my mind no no don't look at
+see it in my mind? No no, don't look at
 
 00:17:50,400 --> 00:17:54,169
-that don't look at that
-
-00:17:51,579 --> 00:17:57,230
-[Laughter]
+that! Don't look at that.
 
 00:17:54,169 --> 00:18:05,929
-hold my hands up but that big okay
+\kthriss Hold your hands up.
+
+\driebus Hold my hands up? but that big okay
 
 00:17:57,230 --> 00:18:08,118
 no no it's like the finger rings ring
