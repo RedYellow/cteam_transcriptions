@@ -81,6 +81,12 @@ fenn:
   description:
   playername: dmpc
 
+sorsha:
+  fullname: Sorsha
+chronaar:
+  fullname: Chronaar
+
+
 # Team Bellerophon
 oak:
   fullname: Oak Truestrike
