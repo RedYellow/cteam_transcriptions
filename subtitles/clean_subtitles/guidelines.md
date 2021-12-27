@@ -52,9 +52,11 @@ shortname: walnut
 
 # Text formatting syntax
 
-Generally use `_text_` for writing italics and `**text**` for bold. Markdown will read \*\*\_ and \_\_ both as bold, and \_ and \_ both as italics, but better to keep them separated for better readability.
+Generally use `_text_` for writing italics and `**text**` for bold. Markdown will read \*\*\_ and \_\_ both as bold, and \* and \_ both as italics, but better to keep them separated for better readability.
 
 # TODO:
 
 - Include arc names (multiple episode storylines)
 - Character names in StageDir environments should render in smallcaps
+- replace "--" with an em dash
+- allow \linebreak arg -- replace with a page break or something
