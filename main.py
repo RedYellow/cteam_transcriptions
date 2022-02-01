@@ -1,6 +1,7 @@
 import glob
 import re
 from pathlib import Path
+
 import yaml
 
 BASE_PATH = Path("./subtitles")
@@ -19,6 +20,7 @@ for path in paths:
 
     mapping_dicts = {
         "coriander": "Coriander",
+        "corriander": "Coriander",
         "dinar": "Donaar",
         "rosie": "Rosie",
         "oak": "Oak",
