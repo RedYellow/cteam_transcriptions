@@ -2,7 +2,7 @@ walnut:
   fullname: Walnut Dankgrass
   race: Wood Elf
   class: Druid
-  description: Reppin the natural world
+  description: Repping the natural world
   playername: Trystan Falcone
 
 kthriss:
@@ -40,26 +40,24 @@ driebus:
 
 cher:
   fullname: Cher Beestinger
-  race:  
+  race:
   class:
   description:
   playername: Molly Lewis
 
 kiupid:
-  fullname: Kiupid Donaar Blit'zen 
-  race:  
+  fullname: Kiupid Donaar Blit'zen
+  race: Lizardfolk
   class:
   description:
-  playername: Nika Harper 
+  playername: Nika Harper
 
 kiwi:
   fullname: Kiwi Beestinger
-  race:  
+  race:
   class:
   description:
   playername: Mikey Lewis
- 
-    
 
 # People
 kate:
@@ -72,7 +70,11 @@ trystan:
   fullname: Trystan Falcone
 pat:
   fullname: Patrick Rothfuss
-# DMPCs 
+# DMPCs
+onyx:
+  fullname: Onyx
+  race: Cat
+  description: Cat that lives at the Dran and Courtier
 # Team Naiad
 fenn:
   fullname: Fenn
@@ -85,7 +87,6 @@ sorsha:
   fullname: Sorsha
 chronaar:
   fullname: Chronaar
-
 
 # Team Bellerophon
 oak:
