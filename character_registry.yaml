@@ -59,7 +59,12 @@ kiwi:
   description:
   playername: Mikey Lewis
  
-    
+evelyn:
+  fullname: Evelyn Marthain
+  race: Human
+  class: Paladin    
+  description:
+  playername: Anna Prosser
 
 # People
 kate:
@@ -70,8 +75,15 @@ kris:
   fullname: Kris Straub
 trystan:
   fullname: Trystan Falcone
+# Guests
 pat:
   fullname: Patrick Rothfuss
+anna:
+  fullname: Anna Prosser
+jared:
+  fullname: ProJared
+nathan:
+  fullname: Nathan Sharp
 # DMPCs 
 # Team Naiad
 fenn:
@@ -90,3 +102,15 @@ chronaar:
 # Team Bellerophon
 oak:
   fullname: Oak Truestrike
+
+# Dice Camera Action people
+diath:
+  fullname: Diath Woodrow
+  race: Human
+  class: Rogue
+  playername: jared
+paultin:
+  fullname: Paultin Seppa
+  race: Human
+  class: Bard
+  playername: nathan
