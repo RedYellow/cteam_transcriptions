@@ -4,7 +4,7 @@
 File: subtitle_processing.py
 Created: Thursday, 2nd December 2021 10:55:36 AM
 
-Last Modified: Thursday, 17th March 2022 2:03:13 PM
+Last Modified: Friday, 1st April 2022 4:02:32 PM
 
 Summary: 
 
@@ -57,6 +57,8 @@ def clean_raw_subs(text):
         "(C|c|(see)).?(T|t)eam": "C-Team",
         "(B|b|(bee)).?(T|t)eam": "B-Team",
         "test market": "Test Market",
+        "Carthoris": "K'thriss",
+        "&amp;":"&"
     }
 
     for pattern, repl in mapping_dict.items():
